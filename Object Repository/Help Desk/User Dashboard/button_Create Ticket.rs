@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create Ticket</name>
+   <tag></tag>
+   <elementGuidId>14a91f0a-d246-4d99-8457-47f6e5432ffe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/div/div/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>90f548c9-56b7-4e34-a4ac-afe45d121d34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn gh-button-primary col-lg-3 col-xl-4 offset-xl-0 gh-create-ticket-button </value>
+      <webElementGuid>2ac03051-ee80-4e30-b861-15590c036dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-router-link-active</name>
+      <type>Main</type>
+      <value>link-active</value>
+      <webElementGuid>37096d0c-94c3-4e52-97fb-ab9c1bd5bf7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Ticket </value>
+      <webElementGuid>0b073fcd-4e4f-402d-bd9c-a686a9a1bfbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;row w-100&quot;]/div[@class=&quot;col-lg-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 mobile-navbar-item&quot;]/div[@class=&quot;row&quot;]/button[@class=&quot;btn gh-button-primary col-lg-3 col-xl-4 offset-xl-0 gh-create-ticket-button&quot;]</value>
+      <webElementGuid>2ac1b4ee-4938-4520-b9f2-54818a8b8e5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/div/div/div/div/button[2]</value>
+      <webElementGuid>3a67779f-aceb-4332-a313-fa7b3cbdc986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::button[1]</value>
+      <webElementGuid>27cd5ab4-5369-4b8a-903b-09cb61d4500c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[3]</value>
+      <webElementGuid>4b36fd8a-9617-48c1-ad4f-b4ca6ee1497f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Knowledge Base'])[1]/preceding::button[1]</value>
+      <webElementGuid>0a7e4489-65c7-4262-8cf6-37417fda380b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sandbox from Hayes Software'])[1]/preceding::button[2]</value>
+      <webElementGuid>7a0d3b78-b324-42cc-bf38-16fd71d19ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Ticket']/parent::*</value>
+      <webElementGuid>ac5e92b4-a5b9-4b54-aec1-468e27825abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>32ffb6ee-1124-4710-978f-5426a6e073b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Create Ticket ' or . = ' Create Ticket ')]</value>
+      <webElementGuid>0d15fb0a-493d-4c51-bb45-d5bcd190e80a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

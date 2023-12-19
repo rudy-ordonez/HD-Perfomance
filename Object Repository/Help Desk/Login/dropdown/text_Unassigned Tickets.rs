@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Unassigned Tickets</name>
+   <tag></tag>
+   <elementGuidId>6e8b60a4-2458-463b-a054-8ba370bbf11c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//text[(text() = 'Unassigned Tickets' or . = 'Unassigned Tickets')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Unassigned Tickets' or . = 'Unassigned Tickets')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>2f97b975-0fe4-4756-a1cd-a323623bedf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>98</value>
+      <webElementGuid>c4cdace4-0435-49de-9dcf-ff88f20187b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>35</value>
+      <webElementGuid>f344d42c-2f99-4175-9dc9-c8fc3a4e98f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>381eb696-d8cd-484a-b32d-8cb65d25c556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>rgb(101, 101, 101)</value>
+      <webElementGuid>c0a65144-ae2b-44b0-9b53-36b41ce5cf18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-opacity</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>4357a83e-b6eb-4679-9287-c8089fa60bdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unassigned Tickets</value>
+      <webElementGuid>9e6db022-6eea-4bce-8933-b2643241a610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;ng-tns-0-0&quot;]/app-root[1]/div[@class=&quot;row gh-body gh-no-margin&quot;]/div[@class=&quot;col-sm-12 gh-body-container&quot;]/block-ui[1]/div[@class=&quot;block-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;tab-panel&quot;]/dashboard[1]/div[1]/div[1]/div[@class=&quot;tab-pane&quot;]/div[@class=&quot;gh-hide-on-mobile&quot;]/chart-section[1]/div[@class=&quot;row gh-no-margin&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4 text-center&quot;]/donut-chart[1]/div[1]/kendo-chart[@class=&quot;k-chart k-widget&quot;]/div[@class=&quot;k-chart-surface&quot;]/svg[1]/g[1]/g[2]/g[1]/text[1]</value>
+      <webElementGuid>942c3904-bb95-4bc5-8f86-020fd1fdb360</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//text[(text() = 'Unassigned Tickets' or . = 'Unassigned Tickets')]</value>
+      <webElementGuid>4c1bdcd5-3b63-45bf-a8bd-cc8781ed4e9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

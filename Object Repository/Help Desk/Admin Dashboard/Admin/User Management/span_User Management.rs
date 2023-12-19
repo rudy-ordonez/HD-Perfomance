@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_User Management</name>
+   <tag></tag>
+   <elementGuidId>33234c50-35ac-49d0-b077-5cab80bf1953</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/ul[2]/li[3]/ul/li/kendo-menu[7]/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a642b7a0-5a06-4c17-bd4a-b0db1ae8d332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-link k-menu-link</value>
+      <webElementGuid>443a005c-b17f-4d9e-82be-e8c09d13d811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>3124cfdd-d0e8-4862-bb55-a843e6b5cf7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>     User Management </value>
+      <webElementGuid>d0dd37b3-8a2e-4f0d-9cfe-2d93b87b8a4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;row gh-100-width&quot;]/ul[@class=&quot;navbar-nav flex-row ml-md-auto d-none d-md-flex&quot;]/li[@class=&quot;dropdown gh-admin-navbar-button&quot;]/ul[@class=&quot;gh-sub-menu&quot;]/li[1]/kendo-menu[7]/ul[@class=&quot;k-widget k-reset k-header k-menu k-menu-vertical&quot;]/li[@class=&quot;k-item k-menu-item k-first k-last&quot;]/span[@class=&quot;k-link k-menu-link&quot;]</value>
+      <webElementGuid>f9790b0d-34c8-4295-b7c7-e353ce3f7cae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ul[2]/li[3]/ul/li/kendo-menu[7]/ul/li/span</value>
+      <webElementGuid>cfba7521-79f2-403c-9729-662eb06d0115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile Settings'])[1]/preceding::span[2]</value>
+      <webElementGuid>c3c1d601-96a1-4033-b6fb-40e1ae06a30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-menu[7]/ul/li/span</value>
+      <webElementGuid>60248b28-4ac9-4a54-8a4f-359c4a0bb5c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '     User Management ' or . = '     User Management ')]</value>
+      <webElementGuid>70dc78d7-fbe0-43c9-a5e1-07e248e7bb52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
