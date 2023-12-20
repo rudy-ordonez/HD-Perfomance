@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Ticket Routing</name>
+   <tag></tag>
+   <elementGuidId>1ee85278-9671-438f-99e6-365f9f128551</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/ul[2]/li[2]/ul/li/kendo-menu[6]/ul/li/div/a/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gh-remove-margin-bottom</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ticket Routing</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;row gh-100-width&quot;]/ul[@class=&quot;navbar-nav flex-row ml-md-auto d-none d-md-flex&quot;]/li[@class=&quot;dropdown gh-admin-navbar-button&quot;]/ul[@class=&quot;gh-sub-menu&quot;]/li[1]/kendo-menu[6]/ul[@class=&quot;k-widget k-reset k-header k-menu k-menu-vertical&quot;]/li[@class=&quot;k-item k-menu-item k-first k-last&quot;]/div[@class=&quot;row gh-no-margin gh-100-width text-center&quot;]/a[@class=&quot;col-xl-12 gh-navigation-hidden-link&quot;]/p[@class=&quot;gh-remove-margin-bottom&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ul[2]/li[2]/ul/li/kendo-menu[6]/ul/li/div/a/p</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ticket Routing']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-menu[6]/ul/li/div/a/p</value>
+   </webElementXpaths>
+</WebElementEntity>

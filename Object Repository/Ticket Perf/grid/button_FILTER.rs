@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_FILTER</name>
+   <tag></tag>
+   <elementGuidId>b1cfe5de-9ad3-4a9a-a373-48ed8a4042a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tickets'])[2]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.gh-filter-button.gh-icon-buttons.gh-15-margin-left-and-right.k-button-icontext.k-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f56292eb-6a45-4de4-b6fc-6bfdbf4c2b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn gh-filter-button gh-icon-buttons gh-15-margin-left-and-right k-button-icontext k-button</value>
+      <webElementGuid>fb79424c-8909-48c9-b90f-0fb486934f38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>02b70604-88d4-4c50-9696-07e2fc462d0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    FILTER</value>
+      <webElementGuid>ef28d9de-6203-4839-a098-2cad5815901f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;ng-tns-0-0&quot;]/app-root[1]/div[@class=&quot;row gh-body gh-no-margin&quot;]/div[@class=&quot;col-sm-12 gh-body-container&quot;]/block-ui[1]/div[@class=&quot;block-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;tab-panel&quot;]/view-all-tickets[@class=&quot;ng-tns-c17-1 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c17-1 ng-star-inserted&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;card gh-no-border&quot;]/div[@class=&quot;card-body&quot;]/kendo-grid[@class=&quot;gh-100-width k-widget k-grid&quot;]/kendo-grid-toolbar[@class=&quot;k-header k-grid-toolbar ng-star-inserted&quot;]/div[@class=&quot;row ng-tns-c17-1 ng-star-inserted&quot;]/div[@class=&quot;col-sm-7&quot;]/div[@class=&quot;row&quot;]/button[@class=&quot;btn gh-filter-button gh-icon-buttons gh-15-margin-left-and-right k-button-icontext k-button&quot;]</value>
+      <webElementGuid>9d632d6c-3ff2-49fe-b974-04b040e6d184</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tickets'])[2]/following::button[1]</value>
+      <webElementGuid>98083d94-7ecd-4009-986d-b81aea9f0f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/following::button[1]</value>
+      <webElementGuid>50c9057e-a984-4489-b605-4872295e50b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medium'])[1]/preceding::button[2]</value>
+      <webElementGuid>5626cb26-8839-4764-aa36-cae88d074b67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-grid-toolbar/div/div/div/button</value>
+      <webElementGuid>267fa59c-717a-4bf9-9660-ccd94c227684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '    FILTER' or . = '    FILTER')]</value>
+      <webElementGuid>fe8071dc-37db-498f-9d1d-0610a94a8154</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

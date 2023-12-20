@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Loading_second</name>
+   <tag></tag>
+   <elementGuidId>5323e4cc-a8d2-467f-8a6d-ea0b3d0b7ef9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-loading-image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid-list/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c3378cb4-ba0a-4897-a53d-c810a267b818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-loading-image</value>
+      <webElementGuid>a68951b0-65c9-4294-b2bc-2e9cd441f54d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[1]/app-root[1]/div[@class=&quot;row gh-body gh-no-margin&quot;]/div[@class=&quot;col-sm-12 gh-body-container&quot;]/block-ui[1]/div[@class=&quot;block-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;tab-panel&quot;]/view-all-tickets[@class=&quot;ng-tns-c7-0 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c7-0 ng-star-inserted&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;card gh-no-border&quot;]/div[@class=&quot;card-body&quot;]/kendo-grid[@class=&quot;gh-100-width k-widget k-grid&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-loading-mask ng-star-inserted&quot;]/div[@class=&quot;k-loading-image&quot;]</value>
+      <webElementGuid>5892c354-d3b1-4871-8662-1a33878ca79d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-grid-list/div[2]/div</value>
+      <webElementGuid>e4ad724a-b6f3-487f-be66-8c54758fb538</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

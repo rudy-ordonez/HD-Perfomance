@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Private Notes</name>
+   <tag></tag>
+   <elementGuidId>5491c534-373a-4edf-84a2-4fcbe695d632</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.active.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='activity']/div/div/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eca2e5d7-d04f-446d-893a-a096f3d61497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link active show</value>
+      <webElementGuid>065cb888-d3d4-45d0-8b08-0550aa764a31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>4b04edae-3099-48dc-b9b9-ae6cbc616468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#privateNotes</value>
+      <webElementGuid>55dcfbaa-b13b-4e13-9328-82e754159fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Only technicians will see this comment</value>
+      <webElementGuid>357af3ec-2820-4edf-b939-b14bd382a17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Private Notes</value>
+      <webElementGuid>ccd7ec96-f258-49eb-bb12-561a7b0167f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;activity&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link active show&quot;]</value>
+      <webElementGuid>313c6373-5b38-412f-92fb-2294edc60af4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='activity']/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>9a074a3a-c220-4dda-9517-9f27f2be2014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Private Notes')]</value>
+      <webElementGuid>c813eee5-0bdb-4f0b-b071-52f2f9cbf226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public Comments'])[1]/following::a[1]</value>
+      <webElementGuid>f7b75279-b339-4951-9d5e-956e6581c09f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity'])[1]/following::a[2]</value>
+      <webElementGuid>3f6c8b3d-51f5-4e9b-91f7-13f46cb15d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/preceding::a[1]</value>
+      <webElementGuid>a59c020a-91b6-4de0-9855-1b144c3ddd46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachments'])[1]/preceding::a[2]</value>
+      <webElementGuid>6c90a224-50a6-499b-92ac-406d98d5ef24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Private Notes']/parent::*</value>
+      <webElementGuid>04a34ee4-a411-4553-bd59-82917eb63436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#privateNotes')]</value>
+      <webElementGuid>5e2bbaa7-e9f8-44d6-9822-d0a629ed751b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>6df121bb-8029-4a41-a799-a94963c390b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#privateNotes' and @title = 'Only technicians will see this comment' and (text() = 'Private Notes' or . = 'Private Notes')]</value>
+      <webElementGuid>d470b797-1dc8-4430-9888-4457915c652f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

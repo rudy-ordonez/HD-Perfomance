@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create SQL Ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73460dc8-da5e-4867-87ad-f2320e273a0d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe97ef23-28e8-4f2a-b052-0b34797163b6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.tag</defaultValue>
+      <description></description>
+      <id>fe97ef23-28e8-4f2a-b052-0b34797163b6</id>
+      <masked>false</masked>
+      <name>tag</name>
+   </variable>
+</TestCaseEntity>

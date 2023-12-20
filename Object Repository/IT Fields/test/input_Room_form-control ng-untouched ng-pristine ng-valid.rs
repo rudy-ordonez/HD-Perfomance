@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Room_form-control ng-untouched ng-pristine ng-valid</name>
+   <tag></tag>
+   <elementGuidId>5edcda9b-dcf0-4663-b37d-cce3fe35276d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id=''])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-9 > input.form-control.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>dd1057d2-3043-42fe-be74-6e68aad84f71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>3f6ef095-bcf3-4d9c-aff5-e968c4a7a028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>de40a38d-060a-484e-8a64-1b8a33fea6e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>Location</value>
+      <webElementGuid>0c907fbe-7417-4575-8c92-4316f4a9d86d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>50</value>
+      <webElementGuid>6ed36b88-c9dc-454b-a413-bf03b5f16d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;newTicketDetailsContainer&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/dynamic-form[@class=&quot;col-xl-6 offset-xl-3&quot;]/div[@class=&quot;dynamic-form form-horizontal&quot;]/form-input[2]/div[@class=&quot;row row-margined&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group dynamic-field form-input&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row gh-hide-on-mobile&quot;]/div[@class=&quot;col-sm-9&quot;]/input[@class=&quot;form-control ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>3b7f892a-ab23-4c06-bc12-21d30a574ccd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id=''])[2]</value>
+      <webElementGuid>00cd64a1-af00-4c37-b324-455ec41da99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='newTicketDetailsContainer']/div[2]/div/dynamic-form/div/form-input[2]/div/div/div/form/div/div[2]/input</value>
+      <webElementGuid>b6930145-fff4-45d5-9ca4-8ff36159b0ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form-input[2]/div/div/div/form/div/div[2]/input</value>
+      <webElementGuid>f9f49b52-7d79-485c-81d4-1eeac8a530ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>ecf98d10-d1af-44e0-a37d-0846021d5d08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

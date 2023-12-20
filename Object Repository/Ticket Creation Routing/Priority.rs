@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Priority</name>
+   <tag></tag>
+   <elementGuidId>b26f6bb3-72e4-4cc8-8d47-199bcb4a252f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='conditionNameSection']/div/select)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-invalid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>conditionName</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>conditionName</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> --- GetHelp Fields --- Description Priority Problem Type Room Site Source Summary --- TIPWeb-IT Fields --- Manufacturer Model Product Name Product Type Site Type --- Custom Fields --- $%2. Multi Drop-down..... 1. TextTextTextTextTextTe 1_Integer 2a. Single..... drop-down 3a. Decimal Decimal Field 3b. Integer Integer Field 4. Date Field Date Field. Birth Date Building dddddddd@#$@#%#@$^#@$% Done1 Drop Down Single DropDown 1 DropReqDown DTwo Dtwo2 Escalation Fake Site Int Integer1 IT Helpdesk Category Mas Multi select dropdown MS for Filter Operators Multi Select One Room Number Sample Checkbox Field Single Select Sudden Death Test Fake Room Required Test MS Dropdown Jason Test my MS dropdown This is my integer Tone Ttwo two User Info UserEmail UserName</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;conditionContainer&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/kendo-sortable[1]/div[3]/condition-card[1]/div[@class=&quot;panel-container gh-condition-card-container&quot;]/div[@class=&quot;card cardstock&quot;]/div[@class=&quot;card flat-corner panel-default&quot;]/div[@class=&quot;card-body smaller-cards&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-12 gh-no-left-padding gh-no-right-padding&quot;]/div[@class=&quot;row gh-no-margin&quot;]/div[@class=&quot;col-xl-10&quot;]/form[@class=&quot;row ng-untouched ng-pristine ng-invalid&quot;]/div[@id=&quot;conditionNameSection&quot;]/div[@class=&quot;col-xl-12 gh-no-padding&quot;]/select[@class=&quot;form-control ng-untouched ng-pristine ng-invalid&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='conditionNameSection']/div/select)[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What action should be performed?'])[1]/preceding::select[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/condition-card/div/div/div/div/div/div/div/div[2]/form/div/div/select</value>
+   </webElementXpaths>
+</WebElementEntity>

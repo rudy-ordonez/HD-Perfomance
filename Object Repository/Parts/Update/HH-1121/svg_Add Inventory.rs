@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Add Inventory</name>
+   <tag></tag>
+   <elementGuidId>38a7d1c2-a4c9-491c-9a8f-3dee2ed9fb5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//svg[@title = 'Add Record' and (text() = 'Add Record' or . = 'Add Record')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.toolbar-row.ng-star-inserted > div > button.btn.btn-default.action-btn-border.k-button.k-grid-add-command > svg.svg-inline--fa.fa-plus-circle.fa-w-16.font-size-20.gh-forest-green-font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>22477635-3b68-40be-9691-cf424106843d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-plus-circle fa-w-16 font-size-20 gh-forest-green-font</value>
+      <webElementGuid>f3de66d9-d2a2-4f8e-8fcc-606de567bf54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add Record</value>
+      <webElementGuid>44a18222-da1a-4720-b923-67d676b236ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>svg-inline--fa-title-4295</value>
+      <webElementGuid>6edc7e10-54bc-4a43-afaa-59edb770af12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>2b66477e-bef4-4947-859a-d2c7f82d6457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>plus-circle</value>
+      <webElementGuid>028be193-8213-4c1d-9a0b-349b91c838d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>582cb1ed-1d19-4343-bca8-14993c0be9ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>505a7668-70e7-458f-9aaf-b033166c390b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>fd4af382-a656-4852-a650-88283add40a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Record</value>
+      <webElementGuid>1d54b67d-2122-495b-b458-a33ebdd83aaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsInventoryGrid&quot;)/kendo-grid-toolbar[@class=&quot;k-header k-grid-toolbar ng-star-inserted&quot;]/div[@class=&quot;toolbar-row ng-star-inserted&quot;]/div[1]/button[@class=&quot;btn btn-default action-btn-border k-button k-grid-add-command&quot;]/svg[@class=&quot;svg-inline--fa fa-plus-circle fa-w-16 font-size-20 gh-forest-green-font&quot;]</value>
+      <webElementGuid>e13d3c3d-6c10-4209-b44b-776126f5899a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inventory History'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>49bfa305-fe65-4ece-b17b-f7c2623d294e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No records available.'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>31c7edc3-a291-4861-bce7-d8bcd1e42880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@title = 'Add Record' and (text() = 'Add Record' or . = 'Add Record')]</value>
+      <webElementGuid>dd3139b6-3a75-4ef8-9c23-f1930fa5e14b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

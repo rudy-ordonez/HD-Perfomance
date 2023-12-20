@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Tech2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70f2ee8c-ea3b-4b0b-8a87-5094fd8f274e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>28c50303-64f6-4792-aff0-3f5fdd1245d1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cec3159c-cb19-408e-816b-484e92990000</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>454ec6fb-2301-41c7-9d50-bdad3c886f75</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.url</defaultValue>
+      <description></description>
+      <id>28c50303-64f6-4792-aff0-3f5fdd1245d1</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.tech2</defaultValue>
+      <description></description>
+      <id>cec3159c-cb19-408e-816b-484e92990000</id>
+      <masked>false</masked>
+      <name>tech2</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.tech2pass</defaultValue>
+      <description></description>
+      <id>454ec6fb-2301-41c7-9d50-bdad3c886f75</id>
+      <masked>false</masked>
+      <name>tech2pass</name>
+   </variable>
+</TestCaseEntity>

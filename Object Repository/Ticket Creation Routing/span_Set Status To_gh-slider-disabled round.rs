@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Set Status To_gh-slider-disabled round</name>
+   <tag></tag>
+   <elementGuidId>25459646-d3fb-4488-9155-5ba04a8f46d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.gh-slider-disabled.round</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='actionsContainer']/div[3]/div/div/div/div/div/div/div/div[3]/button/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gh-slider-disabled round</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>gh-slider-disabled round</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionsContainer&quot;)/div[@class=&quot;row gh-15-margin-top&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card gh-cardstock-disabled&quot;]/div[@class=&quot;card flat-corner panel-default&quot;]/div[@class=&quot;card-body smaller-cards&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-12 gh-no-left-padding gh-no-right-padding&quot;]/div[@class=&quot;row gh-no-margin&quot;]/div[@class=&quot;col-xl-1 delete-icon&quot;]/button[@class=&quot;btn btn-link gh-blue-font&quot;]/label[@class=&quot;gh-switch&quot;]/span[@class=&quot;gh-slider-disabled round&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='actionsContainer']/div[3]/div/div/div/div/div/div/div/div[3]/button/label/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div[3]/button/label/span</value>
+   </webElementXpaths>
+</WebElementEntity>

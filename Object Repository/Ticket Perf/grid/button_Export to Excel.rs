@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Export to Excel</name>
+   <tag></tag>
+   <elementGuidId>482e2545-b1e4-4b8b-b871-b0577e830be1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.pull-right.gh-export-excel-button.k-button.k-grid-excel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>591f9991-60ad-48b7-a43f-9bb36e80ab1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pull-right gh-export-excel-button k-button k-grid-excel</value>
+      <webElementGuid>63da7bb1-af1b-4b85-928b-ce38680e39ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Export to Excel</value>
+      <webElementGuid>d3e1cd31-f7f6-4bb2-89c0-e3054ccf4d80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>08e0d877-d1d6-4933-b56a-407df11616d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>f07de277-755c-4f94-9684-57f5b10cccaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Export to Excel </value>
+      <webElementGuid>9628c645-a0c1-4c7f-b87d-a0ba132b4b07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;ng-tns-0-0&quot;]/app-root[1]/div[@class=&quot;row gh-body gh-no-margin&quot;]/div[@class=&quot;col-sm-12 gh-body-container&quot;]/block-ui[1]/div[@class=&quot;block-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;tab-panel&quot;]/view-all-tickets[@class=&quot;ng-tns-c17-1 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c17-1 ng-star-inserted&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;card gh-no-border&quot;]/div[@class=&quot;card-body&quot;]/kendo-grid[@class=&quot;gh-100-width k-widget k-grid&quot;]/kendo-grid-toolbar[@class=&quot;k-header k-grid-toolbar ng-star-inserted&quot;]/div[@class=&quot;row ng-tns-c17-1 ng-star-inserted&quot;]/div[@class=&quot;col-sm-1 offset-sm-4&quot;]/button[@class=&quot;pull-right gh-export-excel-button k-button k-grid-excel&quot;]</value>
+      <webElementGuid>d105c732-9741-490a-bde0-87ea65b1e364</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>088a6771-4a68-426e-88a2-953ee9035a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tickets'])[2]/following::button[2]</value>
+      <webElementGuid>6a11bc70-72d7-4c2b-9460-40120f84f14d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medium'])[1]/preceding::button[1]</value>
+      <webElementGuid>f33a5b2a-c8b9-410e-973e-d64755434045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New task 1111'])[1]/preceding::button[1]</value>
+      <webElementGuid>838effa9-81f9-4251-af26-6787a77c6251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-grid-toolbar/div/div[2]/button</value>
+      <webElementGuid>aae5ec5b-2b66-4566-9a2b-e8971bba088a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Export to Excel' and @type = 'button' and (text() = ' Export to Excel ' or . = ' Export to Excel ')]</value>
+      <webElementGuid>09ea0cd3-2a3b-45bc-914c-a716a71f995f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

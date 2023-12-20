@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--- GetHelp Fields --- Assigned To D_b42230</name>
+   <tag></tag>
+   <elementGuidId>be0cdac5-353f-42f1-9b90-586234705f4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-control.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='conditionNameSection']/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-invalid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>conditionName</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>conditionName</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> --- GetHelp Fields --- Assigned To Description Priority Problem Type Room Site Source Status Summary --- TIPWeb-IT Fields --- Manufacturer Model Product Name Product Type Site Type --- Custom Fields --- $%2. Multi Drop-down..... 1. TextTextTextTextTextTe 1_Integer 2a. Single..... drop-down 3a. Decimal Decimal Field 3b. Integer Integer Field 4. Date Field Date Field. Birth Date Building dddddddd@#$@#%#@$^#@$% Done1 Drop Down Single DropDown 1 DropReqDown DTwo Dtwo2 Escalation Fake Site Int Integer1 IT Helpdesk Category Mas Multi select dropdown MS for Filter Operators Multi Select One Room Number Sample Checkbox Field Single Select Sudden Death Test Fake Room Required Test MS Dropdown Jason Test my MS dropdown This is my integer Tone Ttwo two User Info UserEmail UserName</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;conditionNameSection&quot;)/div[@class=&quot;col-xl-12 gh-no-padding&quot;]/select[@class=&quot;form-control ng-untouched ng-pristine ng-invalid&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='conditionNameSection']/div/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What action should be performed?'])[1]/preceding::select[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign to:'])[1]/preceding::select[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+   </webElementXpaths>
+</WebElementEntity>

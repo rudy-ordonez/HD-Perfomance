@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Part Type</name>
+   <tag></tag>
+   <elementGuidId>c4173558-e318-4cb2-9b37-cb9c133db078</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#k-0700bead-0a01-4785-a302-741cb924c9d0 > span.k-select > span.k-icon.k-i-arrow-s</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/kendo-dropdownlist/span/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>153019dd-628f-481d-b7fa-8a9c77977998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-s</value>
+      <webElementGuid>0274648c-fdb3-44e2-83a4-b2b7008e5de5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-klass</name>
+      <type>Main</type>
+      <value>k-icon</value>
+      <webElementGuid>364590d8-0abc-45bf-829d-dc586737137e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>k-i-arrow-s</value>
+      <webElementGuid>a33baa67-1b47-42b8-abc7-34a87b5c1d83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-0700bead-0a01-4785-a302-741cb924c9d0&quot;)/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-s&quot;]</value>
+      <webElementGuid>ad37b9f2-cd88-4cde-bdef-6c306e573b0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='k-0700bead-0a01-4785-a302-741cb924c9d0']/span[2]/span</value>
+      <webElementGuid>2675951e-35b4-4b4f-ad59-db37a9e986a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/kendo-dropdownlist/span/span[2]/span</value>
+      <webElementGuid>0322418c-16ff-4522-81f8-e977658d47c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

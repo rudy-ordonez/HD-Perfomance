@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cost 3,333.00</name>
+   <tag></tag>
+   <elementGuidId>af1a5665-ae0c-4e57-b04c-ff0266657bf2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[7]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f66be108-a670-4bb0-8e58-f18473891417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pre</value>
+      <webElementGuid>b3a0eda5-8439-4d95-a84d-a1883eb509ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3,333.00 </value>
+      <webElementGuid>92f6dd32-94c5-467e-b488-76a73ca5261d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/div[@class=&quot;k-grid-aria-root&quot;]/table[1]/tbody[1]/tr[@class=&quot;k-master-row&quot;]/td[7]/div[@class=&quot;pre&quot;]</value>
+      <webElementGuid>dab32ca0-f1ec-4772-b2d7-01982b9a2050</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='partsMainGrid']/div/table/tbody/tr/td[7]/div</value>
+      <webElementGuid>525323b2-e0ff-404a-a45d-c44c46a5bc7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('112!@#$*^(){};&quot;', &quot;'&quot;, ',.?/')])[1]/following::div[2]</value>
+      <webElementGuid>878abe82-ae33-44b4-b3dc-21e13c69572c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Record2023Record2023Record2023'])[2]/following::div[4]</value>
+      <webElementGuid>4331658f-3a19-4e3a-9dda-bbbc80c878e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry Error!'])[1]/preceding::div[3]</value>
+      <webElementGuid>19799a75-c9a6-4d24-be9c-d359723cd393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='3,333.00']/parent::*</value>
+      <webElementGuid>39ecd765-d907-47ca-a5a1-978e69fd9607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div</value>
+      <webElementGuid>35596fdc-9a02-4bc4-9e2a-52d90d36283e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '3,333.00 ' or . = '3,333.00 ')]</value>
+      <webElementGuid>d703f895-1d94-4c44-b944-94d3f4816d7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

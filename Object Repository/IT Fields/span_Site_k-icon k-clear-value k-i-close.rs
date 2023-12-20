@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Site_k-icon k-clear-value k-i-close</name>
+   <tag></tag>
+   <elementGuidId>c94fde7f-428a-4f8e-ae8c-5b1439ff1469</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='newTicketDetailsContainer']/div[2]/div/dynamic-form/div/form-select-site/div/div/div/form/div/div[2]/div/autocomplete/div/kendo-autocomplete/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-clear-value.k-i-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-clear-value k-i-close</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>clear</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;newTicketDetailsContainer&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/dynamic-form[@class=&quot;col-xl-6 offset-xl-3&quot;]/div[@class=&quot;dynamic-form form-horizontal&quot;]/form-select-site[1]/div[@class=&quot;row row-margined&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group dynamic-field form-select&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9&quot;]/div[1]/autocomplete[1]/div[1]/kendo-autocomplete[@class=&quot;form-control k-widget k-autocomplete k-header ng-untouched ng-pristine ng-valid&quot;]/span[@class=&quot;k-icon k-clear-value k-i-close&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='newTicketDetailsContainer']/div[2]/div/dynamic-form/div/form-select-site/div/div/div/form/div/div[2]/div/autocomplete/div/kendo-autocomplete/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-autocomplete/span</value>
+   </webElementXpaths>
+</WebElementEntity>

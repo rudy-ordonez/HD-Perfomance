@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Room_Field</name>
+   <tag></tag>
+   <elementGuidId>47fc9942-fbc2-4bdc-9f84-deb437259d36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id=''])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;newTicketDetailsContainer&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/dynamic-form[@class=&quot;col-xl-6 offset-xl-3&quot;]/div[@class=&quot;dynamic-form form-horizontal&quot;]/form-input[2]/div[@class=&quot;row row-margined&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group dynamic-field form-input&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row gh-hide-on-mobile&quot;]/div[@class=&quot;col-sm-9&quot;]/input[@class=&quot;form-control ng-untouched ng-pristine ng-valid&quot;][count(. | //input[@class = 'form-control ng-untouched ng-pristine ng-valid' and @type = 'text' and @maxlength = '50']) = count(//input[@class = 'form-control ng-untouched ng-pristine ng-valid' and @type = 'text' and @maxlength = '50'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-9 > input.form-control.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>40da8981-7975-418f-95eb-9fb46cad4077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>a66e738c-b295-4544-b6fb-9bd532e2b215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9dcbf421-f387-46a4-8729-2c6850b7c7ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>50</value>
+      <webElementGuid>4122f15c-aafa-4f7f-94b7-182fb6a86041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;newTicketDetailsContainer&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/dynamic-form[@class=&quot;col-xl-6 offset-xl-3&quot;]/div[@class=&quot;dynamic-form form-horizontal&quot;]/form-input[2]/div[@class=&quot;row row-margined&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group dynamic-field form-input&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row gh-hide-on-mobile&quot;]/div[@class=&quot;col-sm-9&quot;]/input[@class=&quot;form-control ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>3359343d-3bae-4fea-b9bd-91a6360b3540</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id=''])[2]</value>
+      <webElementGuid>7e5354f5-1931-48d4-9552-eba3f767edef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='newTicketDetailsContainer']/div[2]/div/dynamic-form/div/form-input[2]/div/div/div/form/div/div[2]/input</value>
+      <webElementGuid>7a088b20-9a57-4ec1-b9d8-ec5771c246d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form-input[2]/div/div/div/form/div/div[2]/input</value>
+      <webElementGuid>fa11afe7-eb0d-4743-b66c-94af1b84d653</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

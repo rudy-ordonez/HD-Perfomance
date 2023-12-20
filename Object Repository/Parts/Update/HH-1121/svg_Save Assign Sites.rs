@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Save Assign Sites</name>
+   <tag></tag>
+   <elementGuidId>6524216d-6d07-4562-9d74-f627de42dbc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;addInventoryGrid&quot;)/kendo-grid-toolbar[@class=&quot;k-header k-grid-toolbar ng-star-inserted&quot;]/button[@class=&quot;float-right btnToolBar ng-star-inserted text-primary&quot;]/svg[@class=&quot;svg-inline--fa fa-save fa-w-14&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Sites'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline--fa.fa-save.fa-w-14</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>856e009c-4ab6-4044-8ce9-573e065e3c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-save fa-w-14</value>
+      <webElementGuid>fae33dfa-7608-4674-ab69-233c2b93a6e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>88a757e6-2754-4cca-9f1f-7a8a6710c87e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>32f9792b-3cad-40dc-95cc-5d3db07e16a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>save</value>
+      <webElementGuid>0c50df27-ff61-48ce-b848-fb96d0424d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>56148e27-d7e3-4517-a5a3-a4be10312ce6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>8fe92c07-5856-4db4-acf6-1d371884c866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 448 512</value>
+      <webElementGuid>dfcaea6f-4a8b-400c-8656-f2fcf9ebdf0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addInventoryGrid&quot;)/kendo-grid-toolbar[@class=&quot;k-header k-grid-toolbar ng-star-inserted&quot;]/button[@class=&quot;float-right btnToolBar ng-star-inserted text-primary&quot;]/svg[@class=&quot;svg-inline--fa fa-save fa-w-14&quot;]</value>
+      <webElementGuid>312f028a-d096-457d-8a42-dd7d03274a38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Sites'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>3990260e-9656-4d79-817d-6fd66ab85cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>664d3366-df99-4894-817c-71bc6e847361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#Pari01'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f13bf16a-476c-4a62-ad9f-26e2cf0ce7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@Pari1108'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>4e21ff85-ae8e-4190-995c-f6ea1f888a38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

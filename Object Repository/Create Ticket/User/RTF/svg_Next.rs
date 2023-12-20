@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Next</name>
+   <tag></tag>
+   <elementGuidId>338b78a2-91b0-45d7-a85c-e64f98fb726e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='browse'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline--fa.fa-arrow-circle-right.fa-w-16.gh-large-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>1e38b558-a547-48f5-a1a1-5a5e574f01c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-arrow-circle-right fa-w-16 gh-large-icon</value>
+      <webElementGuid>ca0c953c-fc1c-4d30-bd95-f22ed494fe02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c3d8b3ec-644f-4512-846f-c8028609e365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>d369d610-424c-49a4-9a43-079774bcfc82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>arrow-circle-right</value>
+      <webElementGuid>126f7e60-9450-4760-8c0c-8403b50bd314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>275b8257-2ee4-4919-901a-8985d40b984c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>eb576966-396d-49df-bb8f-1367fa06164c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>1f7137c4-d1fc-4619-9205-887a521d22b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;modal-open&quot;]/app-root[1]/create-ticket-component[1]/div[@class=&quot;modal fade in show&quot;]/div[@class=&quot;modal-dialog full-screen-modal&quot;]/div[@class=&quot;modal-content modal-size&quot;]/div[@class=&quot;modal-body&quot;]/spinner-overlay[@class=&quot;fullWidth&quot;]/div[@class=&quot;spinner-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;content&quot;]/wizard-component[@class=&quot;full-screen-wizard&quot;]/div[@class=&quot;content wizard&quot;]/div[@class=&quot;row no-margin wizard-content-wrapper&quot;]/enter-description-component[1]/div[@class=&quot;gh-wizard-step&quot;]/div[@class=&quot;row gh-no-side-margin&quot;]/div[@class=&quot;col-lg-8&quot;]/div[@class=&quot;container gh-bottom-space&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 gh-next-button&quot;]/div[@class=&quot;btn gh-no-padding gh-wizard-navigation-button&quot;]/div[@class=&quot;col-md-12&quot;]/svg[@class=&quot;svg-inline--fa fa-arrow-circle-right fa-w-16 gh-large-icon&quot;]</value>
+      <webElementGuid>a9a7148a-bd81-41f1-bd10-113864cf73f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='browse'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>370df736-e817-424a-b1f1-9f8cc5fad737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>96f3d044-965e-4965-b99a-611457befe1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Help'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>dc118aea-5d70-45d4-ac8e-8edfc0bf1299</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

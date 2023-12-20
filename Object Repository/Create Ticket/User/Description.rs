@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Description</name>
+   <tag></tag>
+   <elementGuidId>2d86e55f-f7a3-4105-86fc-b02fd5dd6ad3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fr-element.fr-view > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f4ef585f-763d-46ef-8516-3b63dc6c5fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;description&quot;)/spinner-overlay[1]/div[@class=&quot;spinner-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[1]/div[@class=&quot;fr-box fr-basic fr-top&quot;]/div[@class=&quot;fr-wrapper show-placeholder&quot;]/div[@class=&quot;fr-element fr-view&quot;]/p[1]</value>
+      <webElementGuid>118565d2-400e-4584-be35-464058e9bef0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//rich-text-editor[@id='description']/spinner-overlay/div/div/div/div/div[3]/div/p</value>
+      <webElementGuid>77e08660-81fa-42eb-9967-de86931f92bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insert Horizontal Line'])[1]/following::p[1]</value>
+      <webElementGuid>dac4d216-3f14-4785-8042-ff90c47c81e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Characters'])[1]/following::p[1]</value>
+      <webElementGuid>3a3b5eac-9197-45da-9803-282ea9239ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please describe the issue in as much detail as you can...'])[1]/preceding::p[1]</value>
+      <webElementGuid>6d1322d7-b7fc-4301-b3ce-ca4d7359c350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Characters : 0/8000'])[1]/preceding::p[1]</value>
+      <webElementGuid>61656e82-940f-40ed-991a-a57c1b730da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p</value>
+      <webElementGuid>c14b839e-bc1c-4347-a988-ead129989884</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

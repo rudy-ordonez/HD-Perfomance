@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Submit</name>
+   <tag></tag>
+   <elementGuidId>9fe85793-16b2-4ab4-ac43-11506423e0c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Save number to profile'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline--fa.fa-plus-circle.fa-w-16.gh-large-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>5fe8ebec-f7d3-443d-bed8-c534e14b99e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-plus-circle fa-w-16 gh-large-icon</value>
+      <webElementGuid>4f623d6b-9812-4f2e-be8d-b2f19d89affd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4374e2f5-d046-4551-bb75-2eebce9d82a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>b20394af-5c53-46f0-8323-b828b8303dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>plus-circle</value>
+      <webElementGuid>a933d19f-2e9d-42e6-92b5-c1d56b673b34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0d01f7d8-fbb7-4bae-8ba7-a20283523a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>ecaefab2-27bf-4482-940a-1e05ffec0c41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>0396da61-9eb3-4e18-a8a1-69518b9fa04d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;modal-open&quot;]/app-root[1]/create-ticket-component[1]/div[@class=&quot;modal fade in show&quot;]/div[@class=&quot;modal-dialog full-screen-modal&quot;]/div[@class=&quot;modal-content modal-size&quot;]/div[@class=&quot;modal-body&quot;]/spinner-overlay[@class=&quot;fullWidth&quot;]/div[@class=&quot;spinner-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;content&quot;]/wizard-component[@class=&quot;full-screen-wizard&quot;]/div[@class=&quot;content wizard&quot;]/div[@class=&quot;row no-margin wizard-content-wrapper&quot;]/enter-contact-info-component[1]/div[@class=&quot;gh-wizard-step&quot;]/div[@class=&quot;row gh-no-side-margin&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;container gh-bottom-space&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 gh-submit-button&quot;]/div[@class=&quot;btn no-padding gh-wizard-navigation-button&quot;]/div[@class=&quot;col-sm-12&quot;]/svg[@class=&quot;svg-inline--fa fa-plus-circle fa-w-16 gh-large-icon&quot;]</value>
+      <webElementGuid>3ab6518e-f40f-4c62-913e-bc356978126f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save number to profile'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>7c5b63af-1d2c-45af-90fc-b06fb0cabd57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>fe829cf9-e19c-4078-a8a6-0db14b957e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>aa404bbe-c18b-41d6-ab89-aff43e97e05f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>0c8e478a-aad8-46e0-acc4-52266eb636f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

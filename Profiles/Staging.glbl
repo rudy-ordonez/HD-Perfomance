@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Staging</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://staging.hsshelpdesk.com/Login/home'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rudy_admin'</initValue>
+      <name>admin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Alex Lifeson</description>
+      <initValue>'alex'</initValue>
+      <name>tech1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Geddy Lee</description>
+      <initValue>'geddy'</initValue>
+      <name>tech2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Zakari Perry</description>
+      <initValue>'ghtesting8'</initValue>
+      <name>user</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Pas4admin'</initValue>
+      <name>adminpass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cygnusX1'</initValue>
+      <name>tech1pass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cygnusX1'</initValue>
+      <name>tech2pass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test'</initValue>
+      <name>userpass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'20099'</initValue>
+      <name>tag</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SY_Site01'</initValue>
+      <name>site</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SY_Site01_R02'</initValue>
+      <name>room</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'marie.saldivar@ccisd.us'</initValue>
+      <name>corpus_admin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test'</initValue>
+      <name>corpus_pass</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

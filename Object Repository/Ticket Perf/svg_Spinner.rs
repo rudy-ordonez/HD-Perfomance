@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Spinner</name>
+   <tag></tag>
+   <elementGuidId>88518801-8193-4a3d-8f03-32222ccf5bda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[1]/app-root[1]/div[@class=&quot;row gh-body gh-no-margin&quot;]/div[@class=&quot;col-sm-12 gh-body-container&quot;]/block-ui[1]/div[@class=&quot;block-container&quot;]/div[@class=&quot;block-div gh-block-margin-top&quot;]/loading-spinner[@class=&quot;gh-center-of-page&quot;]/div[@class=&quot;col-lg-12 text-center gh-five-margin-top&quot;]/svg[@class=&quot;svg-inline--fa fa-spinner fa-w-16 fa-spin fa-3x gh-spinner-blue-color&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline--fa.fa-spinner.fa-w-16.fa-spin.fa-3x.gh-spinner-blue-color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>a5646450-8980-4612-bba4-dcaa796650a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-spinner fa-w-16 fa-spin fa-3x gh-spinner-blue-color</value>
+      <webElementGuid>c74166f4-778b-447a-b04b-759278ef91db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b6f4c02b-1e03-4e0c-9f76-91a7e797b4c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>2744ecaa-8ce2-4136-86d2-4e97d88e36d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>spinner</value>
+      <webElementGuid>86661df7-2e46-4044-8a36-511522277618</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a177f68b-638e-41e1-a79d-981ca049d363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>25c56fc2-fa4e-40c5-83b7-d5e0b4cb3875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>84a1469d-5546-4fe1-b148-f19c8aef4aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[1]/app-root[1]/div[@class=&quot;row gh-body gh-no-margin&quot;]/div[@class=&quot;col-sm-12 gh-body-container&quot;]/block-ui[1]/div[@class=&quot;block-container&quot;]/div[@class=&quot;block-div gh-block-margin-top&quot;]/loading-spinner[@class=&quot;gh-center-of-page&quot;]/div[@class=&quot;col-lg-12 text-center gh-five-margin-top&quot;]/svg[@class=&quot;svg-inline--fa fa-spinner fa-w-16 fa-spin fa-3x gh-spinner-blue-color&quot;]</value>
+      <webElementGuid>f40fac71-3160-4c72-90e2-cb33d52681ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>e8d7a885-28f0-4d32-9503-62f6195d3112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Still Loading...'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>28484821-9238-46a5-9992-bdf4c0be1c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>38acf103-dcf5-401d-b3aa-79d0bb459311</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

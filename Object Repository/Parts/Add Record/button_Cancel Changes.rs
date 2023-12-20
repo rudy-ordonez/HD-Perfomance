@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cancel Changes</name>
+   <tag></tag>
+   <elementGuidId>aee840c5-0111-41d5-9dd5-079689723e22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.action-btn-border.pr-3.k-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid[@id='partsMainGrid']/kendo-grid-toolbar/div/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a2074136-ceb5-4e6a-a4e1-1e5cffb3c0d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default action-btn-border pr-3 k-button</value>
+      <webElementGuid>014e08f7-bd4d-47f2-a41e-eb4b96c3900b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>6e7ac677-e76e-4ce2-8418-a3b249a9ca0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel Changes Cancel Changes </value>
+      <webElementGuid>c6f33600-cc4a-44ec-8cd5-e62b4acdbbfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/kendo-grid-toolbar[@class=&quot;k-header k-grid-toolbar&quot;]/div[@class=&quot;toolbar-row&quot;]/div[1]/button[@class=&quot;btn btn-default action-btn-border pr-3 k-button&quot;]</value>
+      <webElementGuid>e0368b32-9780-48a5-b157-62bf42a1c1b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='partsMainGrid']/kendo-grid-toolbar/div/div/button[3]</value>
+      <webElementGuid>a4ffa8e8-8963-4d36-b3b3-2cc8268c5f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have unsaved changes. Any unsaved changes will be lost.'])[1]/preceding::button[1]</value>
+      <webElementGuid>930d3b6d-1c9b-486b-b806-f8d174a74b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>71e1f8fd-e623-45e7-af97-e9be99f09b2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Cancel Changes Cancel Changes ' or . = 'Cancel Changes Cancel Changes ')]</value>
+      <webElementGuid>02e84ebf-df17-45b2-aa0d-b3eac32777fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

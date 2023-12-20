@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cost</name>
+   <tag></tag>
+   <elementGuidId>2b45fc07-ba56-4826-8654-e81bce889b0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[7]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.k-state-focused > div.pre</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ac7b56f-580a-46f7-a1fa-b2457e45122a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pre</value>
+      <webElementGuid>f369ebb4-5fb2-4860-a9d5-6ec819542319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>100,000.00 </value>
+      <webElementGuid>6efb799e-392a-4550-9dc0-32f6b10e5a81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/div[@class=&quot;k-grid-aria-root&quot;]/table[1]/tbody[1]/tr[@class=&quot;k-master-row k-grid-edit-row&quot;]/td[@class=&quot;k-state-focused&quot;]/div[@class=&quot;pre&quot;]</value>
+      <webElementGuid>0b06a056-381b-4d7a-862c-4d0a4a184760</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='partsMainGrid']/div/table/tbody/tr/td[7]/div</value>
+      <webElementGuid>36de71be-de63-4007-be62-c32b1f4cf3fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='and'])[1]/following::div[3]</value>
+      <webElementGuid>d50f9b91-c53b-4072-9424-c7d363764335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='xxxxx'])[1]/following::div[5]</value>
+      <webElementGuid>31c865aa-e586-46d3-a87c-ffb50ff9bb7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='## AA Bulk parts -0223'])[1]/preceding::div[2]</value>
+      <webElementGuid>e97f844a-c82e-4d7e-a15d-db0a7c26b61d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='## AA Bulk parts -0221'])[1]/preceding::div[3]</value>
+      <webElementGuid>adcb55aa-2a09-465c-be01-bbe5424df041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='100,000.00']/parent::*</value>
+      <webElementGuid>01e2a53f-3de5-4ccd-ada4-ff0599674dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div</value>
+      <webElementGuid>98eeec14-6e35-4bef-8f0f-79539eabce39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '100,000.00 ' or . = '100,000.00 ')]</value>
+      <webElementGuid>9ca1c13a-b81b-4410-bc26-b90699a8e1d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

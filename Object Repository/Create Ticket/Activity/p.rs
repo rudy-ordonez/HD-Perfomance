@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p</name>
+   <tag></tag>
+   <elementGuidId>3950f80c-8e37-49d6-b23a-b80596d1c385</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fr-element.fr-view > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//rich-text-editor[@id='addComment']/spinner-overlay/div/div/div/div/div[3]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>88f67399-ae2f-4986-8e1b-576585ee66e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;activity&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;tab-content gh-padding-top-half-em&quot;]/div[@id=&quot;comments&quot;]/comment-section[1]/spinner-overlay[1]/div[@class=&quot;spinner-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-12&quot;]/div[@class=&quot;form-group gh-no-bottom-margin&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[1]/div[@class=&quot;row gh-row-bottom-spacing&quot;]/div[@class=&quot;col-xl-12&quot;]/rich-text-editor[@id=&quot;addComment&quot;]/spinner-overlay[1]/div[@class=&quot;spinner-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[1]/div[@class=&quot;fr-box fr-basic fr-top&quot;]/div[@class=&quot;fr-wrapper show-placeholder&quot;]/div[@class=&quot;fr-element fr-view&quot;]/p[1]</value>
+      <webElementGuid>ee2cdeea-30d0-491c-8aa6-232a8247459c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//rich-text-editor[@id='addComment']/spinner-overlay/div/div/div/div/div[3]/div/p</value>
+      <webElementGuid>05b3c2f8-fca1-43e0-8c8e-c1739bbe01ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insert Horizontal Line'])[1]/following::p[1]</value>
+      <webElementGuid>115abede-3b7b-4033-9459-21ebd78e9421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Characters'])[1]/following::p[1]</value>
+      <webElementGuid>0bbf4c0b-050a-451e-91ec-b7370c9afb1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Characters : 0/8000'])[1]/preceding::p[1]</value>
+      <webElementGuid>93d5d48c-fa17-463e-9917-413214f94254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::p[1]</value>
+      <webElementGuid>c2fc4494-1c16-4ec8-8de8-667a7b98c6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p</value>
+      <webElementGuid>e8417dd9-3778-4aee-aaf0-20c4a92f877d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

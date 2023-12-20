@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Record</name>
+   <tag></tag>
+   <elementGuidId>dad9dfe9-7998-411f-abe6-8e656f0064bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid-toolbar/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.action-btn-border.k-button.k-grid-add-command</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>94c2ee65-87d9-4ad1-933f-b1b14c74c555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default action-btn-border k-button k-grid-add-command</value>
+      <webElementGuid>36df8ddd-9c81-4f8b-8478-40507685aaa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>9e9a8b37-1a85-49e8-b3c4-c11c5f55306a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Record Add Record </value>
+      <webElementGuid>9122ef2e-e92a-4636-8518-2e24bc12a265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/kendo-grid-toolbar[@class=&quot;k-header k-grid-toolbar&quot;]/div[@class=&quot;toolbar-row&quot;]/div[1]/button[@class=&quot;btn btn-default action-btn-border k-button k-grid-add-command&quot;]</value>
+      <webElementGuid>2116c5af-ca10-47e4-99c9-85214c296dda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='partsMainGrid']/kendo-grid-toolbar/div/div/button</value>
+      <webElementGuid>40752305-5739-44d8-bbcf-7c4b1d7b0691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parts'])[2]/following::button[1]</value>
+      <webElementGuid>4fb296a4-0693-4381-a270-91c30e0401f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/following::button[1]</value>
+      <webElementGuid>bc598bd5-35ac-40ee-a96c-eb3faee617a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Part Type'])[1]/preceding::button[2]</value>
+      <webElementGuid>fbee437e-18c6-414a-87c0-8cabe7888a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-grid-toolbar/div/div/button</value>
+      <webElementGuid>f8988ca4-d8a0-4e84-b3b5-62ef789cccb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add Record Add Record ' or . = 'Add Record Add Record ')]</value>
+      <webElementGuid>bd4ac722-5c25-467f-9a92-4347069ebe35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

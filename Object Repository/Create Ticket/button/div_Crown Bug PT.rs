@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Crown Bug PT</name>
+   <tag></tag>
+   <elementGuidId>408133b4-3189-44c4-be46-0940b252fea5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='problemTypesListAll']/problem-type-card/div/div/div)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37ba9247-ecd1-4b80-97fb-9b284768d9e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body row gh-problem-type-card-padding</value>
+      <webElementGuid>bd2506d8-328d-4a64-8c7b-41468dfe953d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crown Bugfor testing</value>
+      <webElementGuid>3637ff0d-ba07-4382-8f75-c1728c33fe94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;ng-tns-0-0&quot;]/app-root[1]/div[@class=&quot;row gh-body gh-no-margin&quot;]/div[@class=&quot;col-sm-12 gh-body-container&quot;]/block-ui[1]/div[@class=&quot;block-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;tab-panel&quot;]/create-ticket[1]/div[@class=&quot;col-lg-12 gh-create-ticket-container&quot;]/div[@class=&quot;gh-create-ticket-content&quot;]/spinner-overlay[1]/div[@class=&quot;spinner-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[1]/wizard-component[1]/div[@class=&quot;content wizard&quot;]/div[@class=&quot;row no-margin wizard-content-wrapper&quot;]/select-problem-type-component[1]/div[@class=&quot;wizard-step&quot;]/div[@class=&quot;centered-content bottom-separation&quot;]/div[@class=&quot;row gh-problem-type-row-container&quot;]/div[@class=&quot;col-xl-12 gh-problem-types-desktop&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;problemTypesListAll&quot;]/problem-type-card[1]/div[@class=&quot;card gh-no-box-shadow gh-problem-type-card-top-margin-only gh-desktop-problem-type-card&quot;]/div[@class=&quot;card gh-flat-corner panel-default gh-no-margin&quot;]/div[@class=&quot;card-body row gh-problem-type-card-padding&quot;]</value>
+      <webElementGuid>aa8a1574-6a47-4662-adc6-a7c3f6585808</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='problemTypesListAll']/problem-type-card/div/div/div)[3]</value>
+      <webElementGuid>299d7a61-f7b7-45c3-8021-c9721f798ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Counterparts'])[2]/following::div[4]</value>
+      <webElementGuid>5ff28149-09c6-4bf8-800d-5903abf225cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='for testing'])[1]/following::div[5]</value>
+      <webElementGuid>2ad514c9-a123-49f4-aa00-0ac576b2ae48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crown Bug'])[2]/preceding::div[4]</value>
+      <webElementGuid>6a516ae0-389d-4552-b2d0-215ad1502141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/problem-type-card/div/div/div</value>
+      <webElementGuid>1d9ac548-e157-4fcf-8948-13bb55edc0da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Crown Bugfor testing' or . = 'Crown Bugfor testing')]</value>
+      <webElementGuid>4f5409e3-c729-4946-ba22-4e4200f6c38a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

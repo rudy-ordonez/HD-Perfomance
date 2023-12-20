@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71e1f0e8-a8b0-4838-ab15-8000ca20e3a0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b429e859-6d9d-4d0d-a825-19254c7134e0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>55011d44-4457-4389-ba04-e86560902fad</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>346610d0-c4eb-4e98-a111-17d7c9fde170</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.url</defaultValue>
+      <description></description>
+      <id>b429e859-6d9d-4d0d-a825-19254c7134e0</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.admin</defaultValue>
+      <description></description>
+      <id>55011d44-4457-4389-ba04-e86560902fad</id>
+      <masked>false</masked>
+      <name>admin</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.adminpass</defaultValue>
+      <description></description>
+      <id>346610d0-c4eb-4e98-a111-17d7c9fde170</id>
+      <masked>false</masked>
+      <name>adminpass</name>
+   </variable>
+</TestCaseEntity>

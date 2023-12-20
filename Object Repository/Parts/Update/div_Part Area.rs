@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Part Area</name>
+   <tag></tag>
+   <elementGuidId>ac8e594e-afac-4868-b5c8-5229bb28779f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid[@id='partsMainGrid']/div/table/tbody/tr/td[5]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>277969a7-e2c5-4e08-b0ba-7fe52c385e95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pre</value>
+      <webElementGuid>fe10684e-95bd-4090-8b50-2fc464fb87b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PArea12345678910111213141516171819202122232425123456789101112131415161718192021222324252345678910111 </value>
+      <webElementGuid>eb7e4748-f0ed-40ea-aac2-4bb59ae0f169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/div[@class=&quot;k-grid-aria-root&quot;]/table[1]/tbody[1]/tr[@class=&quot;k-master-row&quot;]/td[5]/div[@class=&quot;pre&quot;]</value>
+      <webElementGuid>b7fd5378-0b88-4ba1-92ed-c41b75d1928c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='partsMainGrid']/div/table/tbody/tr/td[5]/div</value>
+      <webElementGuid>547a24b1-59de-4c2c-9d67-1edca0f1d199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='and'])[1]/following::div[1]</value>
+      <webElementGuid>4ef7bd63-d7f6-4643-bdb2-b0c5fb35419f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='## AA Bulk parts - 33@'])[1]/following::div[2]</value>
+      <webElementGuid>ccb34dde-51e7-440d-adda-f8240c93b099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='## AA Bulk parts -0223'])[1]/preceding::div[4]</value>
+      <webElementGuid>317a3e15-cda2-4887-9cb1-081524524225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='## AA Bulk parts -0221'])[1]/preceding::div[5]</value>
+      <webElementGuid>404e33ac-f29a-4bb3-8ccf-70eb1e694675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PArea12345678910111213141516171819202122232425123456789101112131415161718192021222324252345678910111']/parent::*</value>
+      <webElementGuid>47843605-8f80-44f2-81e8-c7ef2a1ec70f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div</value>
+      <webElementGuid>cbf4b424-2126-4527-8c4c-7464e4e1ce79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PArea12345678910111213141516171819202122232425123456789101112131415161718192021222324252345678910111 ' or . = 'PArea12345678910111213141516171819202122232425123456789101112131415161718192021222324252345678910111 ')]</value>
+      <webElementGuid>2d66dc09-6eb0-4cb9-88ed-da9ed966450b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

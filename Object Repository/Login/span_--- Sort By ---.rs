@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_--- Sort By ---</name>
+   <tag></tag>
+   <elementGuidId>41edcf08-9011-4717-9d93-1ea423eaeefe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f8b23c04-5016-4749-99df-311c10645128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-input</value>
+      <webElementGuid>a73fe3ea-1bb8-4362-a350-8a1c49928fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>3d0348ad-5246-4c67-a3c1-86308d045eeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>--- Sort By ---</value>
+      <webElementGuid>8e309693-b86f-4059-b8af-5ebb26145ac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-8b86717b-c479-4f5b-b3df-037e233dcce3&quot;)/span[@class=&quot;k-input&quot;]</value>
+      <webElementGuid>7afcdccf-ba2d-4e4c-a662-5580e2cfc2ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='k-8b86717b-c479-4f5b-b3df-037e233dcce3']/span</value>
+      <webElementGuid>e52ea322-0c64-4ad7-8dd8-beb57fa1f64a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Low'])[3]/following::span[2]</value>
+      <webElementGuid>4e74ce4f-3643-45ca-8e16-05deaa621e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medium'])[2]/following::span[2]</value>
+      <webElementGuid>1ccd5d6e-7bb4-4814-a79b-39fae3246021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All Problem Types'])[1]/preceding::span[3]</value>
+      <webElementGuid>8ed03ed7-726c-4ff5-b81a-691c7f1444cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[1]/preceding::span[7]</value>
+      <webElementGuid>8990de24-7a1a-4d6b-9e65-ad74997c3c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='--- Sort By ---']/parent::*</value>
+      <webElementGuid>53f71334-4ea0-41cb-aba7-246ea8ae0fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>a9d72dd0-9a7b-4a44-afde-ecb624fd8865</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

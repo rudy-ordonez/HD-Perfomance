@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_k-loading-image</name>
+   <tag></tag>
+   <elementGuidId>4c920a5b-da8b-4577-b14a-2a4cd3af31e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7659bd68-b9de-4241-a55b-b436341ce288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-loading-image</value>
+      <webElementGuid>597f7cf3-67b5-48a2-b8ff-8cd1f93429c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;k-loading-mask ng-star-inserted&quot;]/div[@class=&quot;k-loading-image&quot;]</value>
+      <webElementGuid>e4a7ae88-3f99-437b-a4b0-f8dfda179207</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

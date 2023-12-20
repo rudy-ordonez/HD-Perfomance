@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Go to last page</name>
+   <tag></tag>
+   <elementGuidId>746f40d9-8ea8-45ff-8c3d-8d69a2b4d1de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid[@id='partsMainGrid']/kendo-pager/kendo-pager-next-buttons/a[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-i-seek-e</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>78795efd-4c4f-4c77-bd6a-6c687ed74e52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-seek-e</value>
+      <webElementGuid>a80640d4-4d47-40eb-bbc8-cc96a710a3ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>dbbdf6c0-df59-4747-942c-d1b31e240052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Go to the last page</value>
+      <webElementGuid>f263776f-9f4d-4b87-8faf-732b0efbaf3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/kendo-pager[@class=&quot;k-pager-wrap k-grid-pager k-widget&quot;]/kendo-pager-next-buttons[1]/a[@class=&quot;k-link k-pager-nav k-pager-last&quot;]/span[@class=&quot;k-icon k-i-seek-e&quot;]</value>
+      <webElementGuid>757a18b2-464b-419f-ae77-c0c8fffffed3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='partsMainGrid']/kendo-pager/kendo-pager-next-buttons/a[2]/span</value>
+      <webElementGuid>42c35f7d-94e7-49be-bdb7-18297cd440bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-pager-next-buttons/a[2]/span</value>
+      <webElementGuid>42f1d10e-5ffa-4b94-b13c-9a29c72687a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

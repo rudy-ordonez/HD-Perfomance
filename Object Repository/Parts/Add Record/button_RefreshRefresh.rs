@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_RefreshRefresh</name>
+   <tag></tag>
+   <elementGuidId>fd73d483-8b4f-4fb4-afce-d5ff0a4cd0d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid[@id='partsMainGrid']/kendo-grid-toolbar/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>91141fc2-1c29-4938-9bca-aa946faeb000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default action-btn-border k-button</value>
+      <webElementGuid>b480d6d9-8af7-49c7-a271-1c31d68ec8f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>6fbfab49-f12c-4c33-8a3c-e38ad6c78512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refresh Refresh </value>
+      <webElementGuid>c4e66b8d-b143-4e35-96e4-e4fd93fee29d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/kendo-grid-toolbar[@class=&quot;k-header k-grid-toolbar&quot;]/div[@class=&quot;toolbar-row&quot;]/div[2]/button[@class=&quot;btn btn-default action-btn-border k-button&quot;]</value>
+      <webElementGuid>96886095-ee8b-41b1-9dca-612101211400</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='partsMainGrid']/kendo-grid-toolbar/div/div[2]/button</value>
+      <webElementGuid>c1d5ff4c-796a-4d9b-9396-833d7868833e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parts'])[2]/following::button[2]</value>
+      <webElementGuid>85a15082-270e-4490-baea-f02cfe923797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Part Type'])[1]/preceding::button[1]</value>
+      <webElementGuid>03068e1b-2bf3-4d7e-a845-f79856c97fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Part Area'])[1]/preceding::button[1]</value>
+      <webElementGuid>ab0cef09-21d9-4cb0-bcff-a342be314b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-grid-toolbar/div/div[2]/button</value>
+      <webElementGuid>ef614e19-3208-49e6-aceb-299a41fbf04b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Refresh Refresh ' or . = 'Refresh Refresh ')]</value>
+      <webElementGuid>ca323686-04cd-4606-b871-4dcf4ec7e877</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

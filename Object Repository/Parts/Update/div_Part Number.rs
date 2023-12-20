@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Part Number</name>
+   <tag></tag>
+   <elementGuidId>df148aa2-a243-4f99-9b38-97b3dd19dfab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pre-part-number-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid[@id='partsMainGrid']/div/table/tbody/tr/td[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>efa93b8e-2480-414c-ab88-128d3fb55c70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pre-part-number-name</value>
+      <webElementGuid>48aba77c-ff4a-4a6a-bfeb-d0c274c72ac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ## AA Bulk parts -33 </value>
+      <webElementGuid>0be54daf-ff7b-428d-b65f-502fcd94b61c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/div[@class=&quot;k-grid-aria-root&quot;]/table[1]/tbody[1]/tr[@class=&quot;k-master-row&quot;]/td[@class=&quot;k-state-focused&quot;]/div[@class=&quot;pre-part-number-name&quot;]</value>
+      <webElementGuid>921d2667-127f-4e8e-989f-5909cdd2be07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='partsMainGrid']/div/table/tbody/tr/td[2]/div</value>
+      <webElementGuid>ec2fe579-cce9-480c-b4f8-7a9d15297ccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Part Area'])[1]/following::div[1]</value>
+      <webElementGuid>20db4022-3e25-425c-acb8-7fecd3cdae19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Part Type'])[1]/following::div[1]</value>
+      <webElementGuid>b2f9c038-b177-49bd-95ab-be637bc550f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='## AA Bulk parts - 33@'])[1]/preceding::div[1]</value>
+      <webElementGuid>63827277-6d45-40e9-a09e-53c680111953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='and'])[1]/preceding::div[2]</value>
+      <webElementGuid>3c68055d-0e03-436e-8998-0973796df1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='## AA Bulk parts -33']/parent::*</value>
+      <webElementGuid>6219225d-726f-471b-9d9f-36a3a2409691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div</value>
+      <webElementGuid>7e202078-ec6a-4b0f-a495-376385140626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' ## AA Bulk parts -33 ' or . = ' ## AA Bulk parts -33 ')]</value>
+      <webElementGuid>9a8b5540-f1e0-4ec6-9c7d-70321fdb6fcf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

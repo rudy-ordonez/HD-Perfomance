@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Disabled Next</name>
+   <tag></tag>
+   <elementGuidId>9037cc52-ed89-4e59-bc2f-fd886a81f499</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Crown Bug Details'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline--fa.fa-arrow-circle-right.fa-w-16.gh-large-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>48467567-331c-45f9-9381-81a2a715b4f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-arrow-circle-right fa-w-16 gh-large-icon</value>
+      <webElementGuid>427a7461-9a8d-42d9-af2b-416ea3ab2224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6774e730-e1bd-41a5-8f92-aff6b6b8a386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>f6327280-f062-4fea-a48c-70e4dd647403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>arrow-circle-right</value>
+      <webElementGuid>6432604f-ae45-46e1-9a3a-3f2f92145ec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e48a71ca-7722-4252-8df6-d872d5abbc52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>d201fbb4-96a1-4f7c-aa0d-cacf531ff725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>f6823a3f-f34b-4bc4-bc55-077cc2ca91d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;modal-open&quot;]/app-root[1]/create-ticket-component[1]/div[@class=&quot;modal fade in show&quot;]/div[@class=&quot;modal-dialog full-screen-modal&quot;]/div[@class=&quot;modal-content modal-size&quot;]/div[@class=&quot;modal-body&quot;]/spinner-overlay[@class=&quot;fullWidth&quot;]/div[@class=&quot;spinner-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;content&quot;]/wizard-component[@class=&quot;full-screen-wizard&quot;]/div[@class=&quot;content wizard&quot;]/div[@class=&quot;row no-margin wizard-content-wrapper&quot;]/enter-custom-field-component[1]/div[@class=&quot;gh-wizard-step&quot;]/div[@class=&quot;row gh-no-side-margin&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;container gh-bottom-space&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 gh-next-button&quot;]/button[@class=&quot;btn gh-no-padding gh-wizard-navigation-button&quot;]/div[@class=&quot;col-sm-12&quot;]/svg[@class=&quot;svg-inline--fa fa-arrow-circle-right fa-w-16 gh-large-icon&quot;]</value>
+      <webElementGuid>20d9bdbb-a8fa-43f1-bbae-0e05d09935db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crown Bug Details'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>57216c07-f44a-4c13-a7a0-23a3bfadc780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to record it to this ticket.'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>2a81d86a-0d4e-42c0-91d7-c40bc0db405c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>a0aa5647-c1b0-47cd-a4a0-e4dc409c3cd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>4296a081-13e8-415a-842f-60a4dbf2b9bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

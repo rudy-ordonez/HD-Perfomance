@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Min Stock</name>
+   <tag></tag>
+   <elementGuidId>a3ca3c92-4946-444a-a298-b499ad333dec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.k-state-focused > div.pre</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid[@id='partsMainGrid']/div/table/tbody/tr/td[8]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f45de65-87b3-4861-b9a1-3f18f9f8ee3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pre</value>
+      <webElementGuid>7b45b0fe-4b0c-43a6-8f67-a9bfcd462a38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5,000,000</value>
+      <webElementGuid>66e7dd55-3ebe-4adf-8a99-e4673491ddb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/div[@class=&quot;k-grid-aria-root&quot;]/table[1]/tbody[1]/tr[@class=&quot;k-master-row k-grid-edit-row&quot;]/td[@class=&quot;k-state-focused&quot;]/div[@class=&quot;pre&quot;]</value>
+      <webElementGuid>0db12a1c-f55f-4063-a09b-896ab4c642ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='partsMainGrid']/div/table/tbody/tr/td[8]/div</value>
+      <webElementGuid>42530db9-1f17-462d-b99f-5c17442e4ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='and'])[1]/following::div[4]</value>
+      <webElementGuid>8b3b19db-dfb3-4595-a9f0-49d1367e4e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='xxxxx'])[2]/following::div[5]</value>
+      <webElementGuid>09887a53-f32c-4f79-a93f-b9bdd278778e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='## AA Bulk parts -0223'])[1]/preceding::div[1]</value>
+      <webElementGuid>a16c8319-8a44-412b-aec5-4fc715db5bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='## AA Bulk parts -0221'])[1]/preceding::div[2]</value>
+      <webElementGuid>5c816be0-b9e8-43f6-bbba-6d542b0ac298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='5,000,000']/parent::*</value>
+      <webElementGuid>60a7f922-e25e-49c7-bd85-ab386e4a4adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/div</value>
+      <webElementGuid>bf117bc2-79d0-48ae-8452-d6e0ff8b5781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '5,000,000' or . = '5,000,000')]</value>
+      <webElementGuid>bb469fe6-a946-41d5-9199-219dc867cfbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Hardware</name>
+   <tag></tag>
+   <elementGuidId>db39d2ab-628d-4f75-a2c4-ca0e4d91e50a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='An application on your device is suffering from an error and cannot be used.'])[2]/following::p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>16a9dd67-3d65-4589-8161-fad11d6c2779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>9e43efcb-a2d1-4c2c-894e-24c9dd53d7aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hardware</value>
+      <webElementGuid>2f2ecc9c-fd1f-4292-8c39-57b00e9d81f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;modal-open&quot;]/app-root[1]/create-ticket-component[1]/div[@class=&quot;modal fade in show&quot;]/div[@class=&quot;modal-dialog full-screen-modal&quot;]/div[@class=&quot;modal-content modal-size&quot;]/div[@class=&quot;modal-body&quot;]/spinner-overlay[@class=&quot;fullWidth&quot;]/div[@class=&quot;spinner-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;content&quot;]/wizard-component[@class=&quot;full-screen-wizard&quot;]/div[@class=&quot;content wizard&quot;]/div[@class=&quot;row no-margin wizard-content-wrapper&quot;]/select-problem-type-component[1]/div[@class=&quot;step-content&quot;]/div[@class=&quot;centered-content bottom-separation gh-margin-bottom-8-percent&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4&quot;]/div[@class=&quot;selectable&quot;]/problem-type-card[1]/div[@class=&quot;card no-box-shadow top-margin-only problem-type&quot;]/div[@class=&quot;card flat-corner card-default no-margin&quot;]/div[@class=&quot;card-body no-padding&quot;]/div[@class=&quot;col-sm-12 flat-corner no-padding&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;text side-padding-only white-background&quot;]/p[@class=&quot;name&quot;]</value>
+      <webElementGuid>8d929789-a2b5-4699-bcc2-646567ace369</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='An application on your device is suffering from an error and cannot be used.'])[2]/following::p[1]</value>
+      <webElementGuid>886d03dc-3fc8-47ed-8be4-e885377fe5b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='An application on your device is suffering from an error and cannot be used.'])[1]/following::p[2]</value>
+      <webElementGuid>c9fcca28-4b79-4f21-9242-e2ada72699e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptop, Desktop, Printer, or other hardware related issues.'])[1]/preceding::p[1]</value>
+      <webElementGuid>9f586ef3-191d-4d65-9657-bbc0ff46284a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cannot connect to the internet. Issues with server.'])[1]/preceding::p[2]</value>
+      <webElementGuid>28d7ff1c-9bcd-4767-91ca-ba175c624384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hardware']/parent::*</value>
+      <webElementGuid>8560ce2b-904b-484c-bc45-3720eb321740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/problem-type-card/div/div/div/div/div/div/div/div/p</value>
+      <webElementGuid>580b5207-39bb-4154-a1da-ff9cf59755cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Hardware' or . = 'Hardware')]</value>
+      <webElementGuid>3313d055-16cc-4b9f-a22e-acb16fadfbc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

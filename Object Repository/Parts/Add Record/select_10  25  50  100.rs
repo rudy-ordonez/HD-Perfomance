@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_10  25  50  100</name>
+   <tag></tag>
+   <elementGuidId>e5210b25-f109-4537-99bd-4e2aeb67ac7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid[@id='partsMainGrid']/kendo-pager/kendo-pager-page-sizes/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>179a8692-001b-4a6e-a0e2-735ff58a757c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>items per page</value>
+      <webElementGuid>e266bc3f-a280-4ad1-aa0e-67bd2193d9e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 10  25  50  100 </value>
+      <webElementGuid>59723346-94df-4cfd-aaa4-9126f9ae050e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/kendo-pager[@class=&quot;k-pager-wrap k-grid-pager k-widget&quot;]/kendo-pager-page-sizes[@class=&quot;k-pager-sizes k-label&quot;]/select[1]</value>
+      <webElementGuid>aec731b1-dfc0-4db3-9723-248989d37d12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='partsMainGrid']/kendo-pager/kendo-pager-page-sizes/select</value>
+      <webElementGuid>6c1ef37d-6462-46de-ab2e-196ac51ef233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('112!@#$*^(){};&quot;', &quot;'&quot;, ',.?/')])[4]/following::select[1]</value>
+      <webElementGuid>ac98d3f6-841a-416e-ba59-5bca6c83dd38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry Error!'])[1]/preceding::select[1]</value>
+      <webElementGuid>d857a305-0ae9-46a0-ba1b-af68cbec95a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::select[1]</value>
+      <webElementGuid>567f70aa-64d7-4555-b323-eeccbfae0f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>3fed7c3a-6bc3-4221-a429-59cb4f2dda4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = ' 10  25  50  100 ' or . = ' 10  25  50  100 ')]</value>
+      <webElementGuid>33769664-7558-4fdb-bd4a-d199d1e1c151</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

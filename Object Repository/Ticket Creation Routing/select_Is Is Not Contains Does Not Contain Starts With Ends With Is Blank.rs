@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Is Is Not Contains Does Not Contain Starts With Ends With Is Blank</name>
+   <tag></tag>
+   <elementGuidId>27e92b93-bdcd-4d69-9db0-1066317a0482</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form.row.ng-untouched.ng-invalid.ng-dirty > #comparisonList > div.col-xl-12.gh-no-padding > select.form-control.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='comparisonList']/div/select)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-valid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>comparisonType</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>comparisonType</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-model</name>
+      <type>Main</type>
+      <value>-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Is Is Not Contains Does Not Contain Starts With Ends With Is Blank</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;conditionContainer&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/kendo-sortable[1]/div[2]/condition-card[1]/div[@class=&quot;panel-container gh-condition-card-container&quot;]/div[@class=&quot;card cardstock&quot;]/div[@class=&quot;card flat-corner panel-default&quot;]/div[@class=&quot;card-body smaller-cards&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-12 gh-no-left-padding gh-no-right-padding&quot;]/div[@class=&quot;row gh-no-margin&quot;]/div[@class=&quot;col-xl-10&quot;]/form[@class=&quot;row ng-untouched ng-invalid ng-dirty&quot;]/div[@id=&quot;comparisonList&quot;]/div[@class=&quot;col-xl-12 gh-no-padding&quot;]/select[@class=&quot;form-control ng-untouched ng-pristine ng-valid&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='comparisonList']/div/select)[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What action should be performed?'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/condition-card/div/div/div/div/div/div/div/div[2]/form/div[2]/div/select</value>
+   </webElementXpaths>
+</WebElementEntity>

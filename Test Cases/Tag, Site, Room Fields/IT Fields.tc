@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IT Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c37a6dee-7b72-46d4-8e8f-abc5e267997e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>900ffa11-5a0b-48b6-85a1-8ee6a5be4cbe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e00a9ff4-2e38-4e49-b9b9-5e13a4ca2a5d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b97b4c97-354c-4616-b1cd-b6dcb31936d7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.tag</defaultValue>
+      <description></description>
+      <id>900ffa11-5a0b-48b6-85a1-8ee6a5be4cbe</id>
+      <masked>false</masked>
+      <name>tag</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.site</defaultValue>
+      <description></description>
+      <id>e00a9ff4-2e38-4e49-b9b9-5e13a4ca2a5d</id>
+      <masked>false</masked>
+      <name>site</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.room</defaultValue>
+      <description></description>
+      <id>b97b4c97-354c-4616-b1cd-b6dcb31936d7</id>
+      <masked>false</masked>
+      <name>room</name>
+   </variable>
+</TestCaseEntity>

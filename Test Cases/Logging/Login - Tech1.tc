@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Tech1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a55fe840-2b25-46e2-a643-32b17bac28e0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e79c868-5d1b-4d2e-a854-9e705a1afd26</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4bf583c7-5dad-442e-b783-d3fe47e6812f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>75de850f-c9da-4bda-9352-efa2fb6c9f21</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.url</defaultValue>
+      <description></description>
+      <id>1e79c868-5d1b-4d2e-a854-9e705a1afd26</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.tech1</defaultValue>
+      <description></description>
+      <id>4bf583c7-5dad-442e-b783-d3fe47e6812f</id>
+      <masked>false</masked>
+      <name>tech1</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.tech1pass</defaultValue>
+      <description></description>
+      <id>75de850f-c9da-4bda-9352-efa2fb6c9f21</id>
+      <masked>false</masked>
+      <name>tech1pass</name>
+   </variable>
+</TestCaseEntity>

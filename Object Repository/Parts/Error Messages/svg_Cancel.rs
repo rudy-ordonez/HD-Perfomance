@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Cancel</name>
+   <tag></tag>
+   <elementGuidId>635f0778-979a-4a25-8620-f9ddb27dc81a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'Cancel' and (text() = 'Cancel' or . = 'Cancel')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.gh-red-font.parts-grid-btn.action-btn-border.k-button.k-grid-cancel-command > svg.svg-inline--fa.fa-times-circle.fa-w-16.font-size-20</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Part Area'])[2]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>c765d291-e340-4eb9-ad77-07c97081c9c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-times-circle fa-w-16 font-size-20</value>
+      <webElementGuid>15ef0c5a-d92d-4bca-96bd-fa54e3705e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>e8846ee9-9cb7-4fe5-8de6-5cd20f96753d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>svg-inline--fa-title-4301</value>
+      <webElementGuid>4a2dcdd7-6a67-45af-8ddd-c9cc4bfe387a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>be9e2bca-56e7-4a52-9843-11088f5a6113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>times-circle</value>
+      <webElementGuid>424e4ec6-0bee-434d-b9a7-b8145ec88ca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7665a3b6-1b2a-42ca-8b52-6a30528351f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>a9083882-e963-4fb8-b67c-f29e7636e13b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>0bdf8c9b-778b-4ae8-a584-6c213e96aeb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>fbf2c83b-6682-436c-90bf-b0aae586406c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/div[@class=&quot;k-grid-aria-root&quot;]/table[1]/tbody[1]/tr[@class=&quot;k-grid-add-row k-grid-edit-row&quot;]/td[@class=&quot;k-command-cell&quot;]/button[@class=&quot;btn btn-default gh-red-font parts-grid-btn action-btn-border k-button k-grid-cancel-command&quot;]/svg[@class=&quot;svg-inline--fa fa-times-circle fa-w-16 font-size-20&quot;]</value>
+      <webElementGuid>c13a2ec3-cd70-480f-9c9d-e049f6292023</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Part Area'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>c4bfd85e-0af1-4d39-a0a7-e07662d2f078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Part Type'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>32f45d8d-a3ae-4029-9581-3076649f264f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='## AA Bulk parts -33'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>a71439c3-928a-4f20-b955-2b51249cee34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='## AA Bulk parts - 33@'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>ab38a6c7-43d9-4333-b7e5-08c6822b2351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@title = 'Cancel' and (text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>1c3fc70d-e334-4ea0-a1f3-514b4694cfe1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

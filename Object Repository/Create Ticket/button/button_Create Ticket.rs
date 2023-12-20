@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create Ticket</name>
+   <tag></tag>
+   <elementGuidId>d86f29ca-a72d-4e90-a47a-e50be3129038</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='createTicketBtn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#createTicketBtn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ad513ede-682b-4de6-b325-48ba47b9a261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-md gh-action-button gh-create-buttons gh-create-ticket col-lg-6 col-xl-4 offset-xl-0</value>
+      <webElementGuid>2365b118-c5ad-4839-92b6-c3a7864c51a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>createTicketBtn</value>
+      <webElementGuid>6ddc9bb4-d61c-4dbd-a081-a97b4c016096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Ticket</value>
+      <webElementGuid>99feb787-01fd-4e40-97ba-e9ba6058dc4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createTicketBtn&quot;)</value>
+      <webElementGuid>332d4acc-b0fc-43bf-a113-a34a2e935bcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='createTicketBtn']</value>
+      <webElementGuid>08f861fc-4180-4b7e-a7fe-80df5b9d631c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[2]</value>
+      <webElementGuid>1ef12288-db9e-4b99-b9db-5e636e8846b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RO'])[1]/following::button[2]</value>
+      <webElementGuid>b4871ddc-2f8d-4e66-aa4d-1d69378ddf09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div/button</value>
+      <webElementGuid>11029911-892f-43f7-97d0-9920eb22e3c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'createTicketBtn' and (text() = ' Create Ticket' or . = ' Create Ticket')]</value>
+      <webElementGuid>2a2452e6-e006-40d2-9db3-46a5a1d666e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

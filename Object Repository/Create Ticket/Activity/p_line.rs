@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_line</name>
+   <tag></tag>
+   <elementGuidId>6382d2a9-ad28-4d48-9b8e-1a7d188c8fe2</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;activity&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;tab-content gh-padding-top-half-em&quot;]/div[@id=&quot;comments&quot;]/comment-section[1]/spinner-overlay[1]/div[@class=&quot;spinner-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-12&quot;]/div[@class=&quot;form-group gh-no-bottom-margin&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[1]/div[@class=&quot;row gh-row-bottom-spacing&quot;]/div[@class=&quot;col-xl-12&quot;]/rich-text-editor[@id=&quot;addComment&quot;]/spinner-overlay[1]/div[@class=&quot;spinner-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[1]/div[@class=&quot;fr-box fr-basic fr-top&quot;]/div[@class=&quot;fr-wrapper show-placeholder&quot;]/div[@class=&quot;fr-element fr-view&quot;]/p[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//rich-text-editor[@id='addComment']/spinner-overlay/div/div/div/div/div[3]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fr-element.fr-view > p</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>17ab3b18-6f75-42c6-a39b-3713907c82d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;activity&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;tab-content gh-padding-top-half-em&quot;]/div[@id=&quot;comments&quot;]/comment-section[1]/spinner-overlay[1]/div[@class=&quot;spinner-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-12&quot;]/div[@class=&quot;form-group gh-no-bottom-margin&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[1]/div[@class=&quot;row gh-row-bottom-spacing&quot;]/div[@class=&quot;col-xl-12&quot;]/rich-text-editor[@id=&quot;addComment&quot;]/spinner-overlay[1]/div[@class=&quot;spinner-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[1]/div[@class=&quot;fr-box fr-basic fr-top&quot;]/div[@class=&quot;fr-wrapper show-placeholder&quot;]/div[@class=&quot;fr-element fr-view&quot;]/p[1]</value>
+      <webElementGuid>2a90e33b-193a-46f7-995c-cfa03e6d4b30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//rich-text-editor[@id='addComment']/spinner-overlay/div/div/div/div/div[3]/div/p</value>
+      <webElementGuid>86371e2c-58b6-4ba4-8189-9ac53027812e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insert Horizontal Line'])[1]/following::p[1]</value>
+      <webElementGuid>62ecc254-748c-4e87-a29e-e5987f199a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Characters'])[1]/following::p[1]</value>
+      <webElementGuid>7b5ed106-0593-4696-8045-716f13fbb290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Characters : 0/8000'])[1]/preceding::p[1]</value>
+      <webElementGuid>53f27235-34a4-440b-b356-ae7328115103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::p[1]</value>
+      <webElementGuid>3e5d05c0-8f95-44d0-9f23-3cce4748b656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p</value>
+      <webElementGuid>9ce9f801-af4b-41bc-bf97-e47047a7b2d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

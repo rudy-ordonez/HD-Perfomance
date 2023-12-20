@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Part Number Filter</name>
+   <tag></tag>
+   <elementGuidId>9ad8af5f-3327-4814-8242-b52f3ef3640d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.k-textbox.ng-pristine.ng-valid.gh-100-width.gh-gray-border.ng-untouched</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>75a94a69-bbec-4138-81fe-e9622de4a251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-textbox ng-pristine ng-valid gh-100-width gh-gray-border ng-untouched</value>
+      <webElementGuid>af70ab06-53fd-42e0-a447-24286f044a87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4a61ac74-6d95-4c84-a369-1f886aa75e58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/div[@class=&quot;k-grid-aria-root&quot;]/table[1]/thead[@class=&quot;k-grid-header&quot;]/tr[@class=&quot;k-filter-row&quot;]/td[2]/string-filter[@class=&quot;k-filtercell&quot;]/input[@class=&quot;k-textbox ng-pristine ng-valid gh-100-width gh-gray-border ng-untouched&quot;]</value>
+      <webElementGuid>06ac847f-785f-4eb5-869b-8e61ae1de7a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>6ddcd251-b7ee-4d3b-bed1-9f3dd2636277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='partsMainGrid']/div/table/thead/tr[2]/td[2]/string-filter/input</value>
+      <webElementGuid>493f65db-92de-46aa-85d6-90d930b45d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//string-filter/input</value>
+      <webElementGuid>7dca6ada-410b-4f40-ad4a-79cd5cd9d5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>6f832019-6dfb-45e4-a89b-f0be98d793d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

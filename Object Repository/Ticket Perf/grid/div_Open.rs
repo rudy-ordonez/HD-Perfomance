@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Open</name>
+   <tag></tag>
+   <elementGuidId>5b94aec2-156d-4d5d-87d9-328959b75acb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[7]/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>500c11de-10a1-4dac-9547-cc2b43b78362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c17-1 ng-star-inserted</value>
+      <webElementGuid>f59663d3-b83a-45d6-8c42-7f416fa8f5eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Open</value>
+      <webElementGuid>42cdca6c-8cc6-4d93-a05b-71d38c149374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;ng-tns-0-0&quot;]/app-root[1]/div[@class=&quot;row gh-body gh-no-margin&quot;]/div[@class=&quot;col-sm-12 gh-body-container&quot;]/block-ui[1]/div[@class=&quot;block-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;tab-panel&quot;]/view-all-tickets[@class=&quot;ng-tns-c17-1 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c17-1 ng-star-inserted&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;card gh-no-border&quot;]/div[@class=&quot;card-body&quot;]/kendo-grid[@class=&quot;gh-100-width k-widget k-grid&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;dropdown-column ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c17-1 ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c17-1&quot;]/div[@class=&quot;ng-tns-c17-1 ng-star-inserted&quot;]</value>
+      <webElementGuid>71b756e1-0cc7-478c-bc99-e6f115ceb804</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New task 1111'])[1]/following::div[6]</value>
+      <webElementGuid>52a78d8d-9bb4-4973-87e0-0b3b9ebfa53b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medium'])[1]/following::div[8]</value>
+      <webElementGuid>0159a78d-9777-4adc-a564-c918f75a6fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saritha Yadav'])[1]/preceding::div[1]</value>
+      <webElementGuid>1d8d1322-8a9e-405d-9ead-0a58f845f2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/a/div</value>
+      <webElementGuid>2aa36e7f-a1b5-42e2-bc7f-87f0d061bc01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Open' or . = '  Open')]</value>
+      <webElementGuid>de4e4c27-291b-4058-8b70-133de413524e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

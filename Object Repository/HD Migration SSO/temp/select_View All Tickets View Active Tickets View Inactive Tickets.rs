@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_View All Tickets View Active Tickets View Inactive Tickets</name>
+   <tag></tag>
+   <elementGuidId>4eb1397d-fc04-4afa-9984-54a7a93811f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#viewTicketsSelection</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='viewTicketsSelection']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>397e11e0-43a9-4e40-88a1-0fbee70a3993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gh-15-margin-left form-control pull-left gh-select-type-of-tickets-dropdown ng-tns-c16-0 ng-trigger ng-trigger-enterAnimationCloseButton ng-untouched ng-pristine ng-valid ng-star-inserted</value>
+      <webElementGuid>81b30673-312d-411c-9e1d-b94f9e80425b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>viewTicketsSelection</value>
+      <webElementGuid>d3798ffc-5aa2-458a-97ea-c2d2eafdaf73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View: All Tickets View: Active Tickets View: Inactive Tickets </value>
+      <webElementGuid>8d0faacf-9420-4d95-b9a5-90d538ba5bc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;viewTicketsSelection&quot;)</value>
+      <webElementGuid>0572ce5a-36e0-47e0-be31-8b1112aa1d2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='viewTicketsSelection']</value>
+      <webElementGuid>fa3d147a-aaa6-4e1c-9663-a58c845f8f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tickets'])[2]/following::select[1]</value>
+      <webElementGuid>90efc4c0-5ca5-478a-ae21-8b9bd1b4587e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Critical'])[1]/preceding::select[1]</value>
+      <webElementGuid>ff0b50be-a1e2-4ab8-bb52-a609141daaf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>7a543950-c5f8-4adc-8e16-9c520aad3672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'viewTicketsSelection' and (text() = 'View: All Tickets View: Active Tickets View: Inactive Tickets ' or . = 'View: All Tickets View: Active Tickets View: Inactive Tickets ')]</value>
+      <webElementGuid>b9df1c66-01ad-4299-8fdc-a89a9dcb53bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

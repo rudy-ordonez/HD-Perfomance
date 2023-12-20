@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Page 2</name>
+   <tag></tag>
+   <elementGuidId>d23a0132-b036-4a40-8ad9-ed4897a5d242</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-pager-numeric-buttons/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ea78039f-7074-46ee-8930-d633eb1c16e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>8a063957-7410-434f-ba51-353b6c0da463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>0fe2df85-0c1c-4d26-a87e-35def508b9be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-link</value>
+      <webElementGuid>5eea2667-eec1-45fb-b111-b6d150e7f472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>c8830935-ff56-4c6f-9990-80a2728b0463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Page 2</value>
+      <webElementGuid>a3df7282-8fd4-4439-885d-cf1bd4561e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 2 </value>
+      <webElementGuid>7074af17-1247-4b64-a0ca-0428c0a4c1d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/kendo-pager[@class=&quot;k-pager-wrap k-grid-pager k-widget&quot;]/kendo-pager-numeric-buttons[1]/ul[@class=&quot;k-pager-numbers k-reset&quot;]/li[2]/a[@class=&quot;k-link&quot;]</value>
+      <webElementGuid>308a5927-6bdf-4b0d-ba9b-0c68a7b50ae4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='partsMainGrid']/kendo-pager/kendo-pager-numeric-buttons/ul/li[2]/a</value>
+      <webElementGuid>1a0e9fed-d54f-4777-a4a7-8cba8d4fc26d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'2')]</value>
+      <webElementGuid>874774c0-feb9-41f5-a731-d527db4a338d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('112!@#$*^(){};&quot;', &quot;'&quot;, ',.?/')])[4]/following::a[4]</value>
+      <webElementGuid>9a483aa4-499a-424b-a648-eb0a1ae90091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='##################'])[1]/following::a[4]</value>
+      <webElementGuid>bdb81235-5ae1-4f0e-a6ae-34691f4c2f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry Error!'])[1]/preceding::a[13]</value>
+      <webElementGuid>401999da-2ca0-467b-a8b7-79ba22d847ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[36]</value>
+      <webElementGuid>09a570bb-dbae-4a41-b6e8-7dbfb7ac93fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-pager-numeric-buttons/ul/li[2]/a</value>
+      <webElementGuid>f6dd3bd2-e2e4-495f-8fe7-9d4acb90571a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = ' 2 ' or . = ' 2 ')]</value>
+      <webElementGuid>a1031933-3baf-41d9-94da-0b562ae86120</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

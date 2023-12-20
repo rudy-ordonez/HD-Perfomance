@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save Changes</name>
+   <tag></tag>
+   <elementGuidId>f95cb973-ffe6-47da-9344-bb58b535d7af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.action-btn-border.px-3.k-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid-toolbar/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e0e36bc9-0c58-4266-9b1b-cf075f3d7594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default action-btn-border px-3 k-button</value>
+      <webElementGuid>f0a6faf7-9455-4606-92dd-697ae3a5ea96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>44b3f0e8-1f98-465a-8a39-baf71e96d604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save Changes Save Changes</value>
+      <webElementGuid>57629113-1f1a-4a03-beb5-876b1606ef8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partsMainGrid&quot;)/kendo-grid-toolbar[@class=&quot;k-header k-grid-toolbar&quot;]/div[@class=&quot;toolbar-row&quot;]/div[1]/button[@class=&quot;btn btn-default action-btn-border px-3 k-button&quot;]</value>
+      <webElementGuid>1aa0db3c-4975-4e03-b46e-6caf93bc2e47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='partsMainGrid']/kendo-grid-toolbar/div/div/button[2]</value>
+      <webElementGuid>d7a4008a-4970-4c0e-8ef2-f1868ff55b15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parts'])[2]/following::button[2]</value>
+      <webElementGuid>a99a5f25-bf47-4a42-b66e-12ccb626ca04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have unsaved changes. Any unsaved changes will be lost.'])[1]/preceding::button[2]</value>
+      <webElementGuid>1fed0afe-148f-421c-a1e2-265d8a45a3a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-grid-toolbar/div/div/button[2]</value>
+      <webElementGuid>62406ccd-6bb6-433d-b55f-4eef76a3502b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Save Changes Save Changes' or . = 'Save Changes Save Changes')]</value>
+      <webElementGuid>3767f9b1-bee1-4dd4-bb34-13530e41f6a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

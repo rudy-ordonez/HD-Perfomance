@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_All Tickets</name>
+   <tag></tag>
+   <elementGuidId>ea25b659-5687-44d8-af3d-f2c71f51bb7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/ul/li[2]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>01f73fdf-f884-4e23-9c26-4ea230b79d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-link gh-submenu-item gh-tickets-option</value>
+      <webElementGuid>bd5ab87a-d758-4e55-9b25-50631451ec82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/UI/tickets/all</value>
+      <webElementGuid>71a8ded0-5b78-4a12-aa26-516fa44e23a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Tickets</value>
+      <webElementGuid>44a43a55-e8a1-4482-b490-ebffff232cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;row gh-100-width&quot;]/ul[@class=&quot;navbar-nav bd-navbar-nav flex-row&quot;]/li[@class=&quot;dropdown show&quot;]/ul[@class=&quot;dropdown dropdown-menu gh-tickets-dropdown text-center show&quot;]/li[3]/a[@class=&quot;btn btn-link gh-submenu-item gh-tickets-option&quot;]</value>
+      <webElementGuid>8293fadf-76e9-4588-b237-df199f6d1be5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ul/li[2]/ul/li[3]/a</value>
+      <webElementGuid>b8f0a933-073e-4e92-974d-b2deeb2bbd2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'All Tickets')]</value>
+      <webElementGuid>ae4bdac8-f2cd-438b-9bc5-8babf58a407c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unassigned Tickets'])[1]/following::a[1]</value>
+      <webElementGuid>1bc637a3-7721-4039-bb02-48093181033b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Tickets'])[1]/following::a[2]</value>
+      <webElementGuid>67316c20-d28c-43df-b999-195d1db993b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Knowledge Base'])[1]/preceding::a[1]</value>
+      <webElementGuid>d674a5b0-653c-4928-9377-4bdad38edb2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Articles'])[1]/preceding::a[2]</value>
+      <webElementGuid>56128b78-8fb2-45e5-b041-f245e2eb2d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Tickets']/parent::*</value>
+      <webElementGuid>29c783f7-67b8-45e2-9107-03133a0becb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/UI/tickets/all')]</value>
+      <webElementGuid>51d55cc8-3484-4003-abf9-9fda6a5c5f32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>8d1f5cb9-9fab-43ca-a5c8-e5597bfa9009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/UI/tickets/all' and (text() = 'All Tickets' or . = 'All Tickets')]</value>
+      <webElementGuid>a04a38a3-0b28-41ae-ba7f-39af36e508a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
