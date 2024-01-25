@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_SLA Targets</name>
+   <tag></tag>
+   <elementGuidId>c436939d-0f63-49d0-8f10-f819fb1e049c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/ul[2]/li[3]/ul/li/kendo-menu[4]/ul/li/div/a/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ad0238b0-9a1c-4416-897a-7c1730780ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gh-remove-margin-bottom</value>
+      <webElementGuid>da7979f0-17e2-4d6b-8bc7-a1a35047a63c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SLA Targets</value>
+      <webElementGuid>9e5eb60d-5368-4210-a2fd-0ef7186fc84d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;row gh-100-width&quot;]/ul[@class=&quot;navbar-nav flex-row ml-md-auto d-none d-md-flex&quot;]/li[@class=&quot;dropdown gh-admin-navbar-button&quot;]/ul[@class=&quot;gh-sub-menu&quot;]/li[1]/kendo-menu[4]/ul[@class=&quot;k-widget k-reset k-header k-menu k-menu-vertical&quot;]/li[@class=&quot;k-item k-menu-item k-first k-last&quot;]/div[@class=&quot;row gh-no-margin gh-100-width text-center&quot;]/a[@class=&quot;col-xl-12 gh-navigation-hidden-link&quot;]/p[@class=&quot;gh-remove-margin-bottom&quot;]</value>
+      <webElementGuid>4fd2c0fa-723b-4f8f-a780-4d375f957325</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ul[2]/li[3]/ul/li/kendo-menu[4]/ul/li/div/a/p</value>
+      <webElementGuid>adb19175-3abb-452f-85d9-e545fb412746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SLA Targets']/parent::*</value>
+      <webElementGuid>bb69c5e8-9d9e-4cce-a37d-76b71e312a62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-menu[4]/ul/li/div/a/p</value>
+      <webElementGuid>671801cf-6b02-4dbc-8f24-97e89f8a6225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'SLA Targets' or . = 'SLA Targets')]</value>
+      <webElementGuid>e0c73717-bb06-4129-baaf-996b3a38ce2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

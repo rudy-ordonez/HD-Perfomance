@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Outer</name>
+   <tag></tag>
+   <elementGuidId>d6130dd6-9110-4b3c-8924-2dbb32f1b98c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.gh-close-button.col-md-1.offset-md-10.font-size-25.margin-left-400</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Help'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>89be2822-46a4-45d5-9bb0-79a58bb5ade9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>1ba3ebd5-00e2-4719-89f0-2e8eda17b7b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn gh-close-button col-md-1 offset-md-10 font-size-25 margin-left-400</value>
+      <webElementGuid>2849f48b-b10d-4e29-bd10-d57f44b223fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[1]/app-root[1]/div[@class=&quot;row gh-body gh-no-margin&quot;]/div[@class=&quot;col-sm-12 gh-body-container&quot;]/block-ui[1]/div[@class=&quot;block-container&quot;]/div[@class=&quot;content fullWidth delay minDuration&quot;]/div[@class=&quot;tab-panel&quot;]/view-ticket[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-lg-12 gh-no-side-paddings&quot;]/div[@class=&quot;right-tab-section right-450&quot;]/div[@class=&quot;right-tab-item height-130px bg-337ab7 ng-star-inserted&quot;]/div[@class=&quot;gh-article-list-panel gh-hide-on-mobile ng-star-inserted&quot;]/article-list-section[1]/div[@class=&quot;row margin-left-0 ng-star-inserted&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;gh-close-button-container row&quot;]/a[@class=&quot;btn gh-close-button col-md-1 offset-md-10 font-size-25 margin-left-400&quot;]</value>
+      <webElementGuid>a8ca78e6-17a7-4a8f-b538-35b7c67f547e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Help'])[1]/following::a[1]</value>
+      <webElementGuid>a44d6957-bc0f-4f52-af85-ee70b390a3e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[3]/following::a[1]</value>
+      <webElementGuid>695a9e74-16b9-4c0a-9a84-5dde486dd833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related Articles'])[1]/preceding::a[1]</value>
+      <webElementGuid>9541564d-fc4f-4f84-bfa9-b43e2e7b767a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Article Name 1'])[1]/preceding::a[1]</value>
+      <webElementGuid>242e2a68-e8de-4b0d-9ad5-75e62810c9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article-list-section/div/div/div/a</value>
+      <webElementGuid>0b37a597-ecd5-4561-87ba-c93ddbf8f16c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Close']</value>
+      <webElementGuid>a4383b86-dd2d-4151-a254-6f2cfaa1bcea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Admin</name>
+   <tag></tag>
+   <elementGuidId>eab2a36a-adad-41b6-a095-526bb18fe4df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='navMenuAdminDropDown']/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#navMenuAdminDropDown > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>a78c0e7a-6c75-4c98-971b-a9e54a104206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Admin </value>
+      <webElementGuid>8372b0dd-04db-44b7-886a-c4999f5d971d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navMenuAdminDropDown&quot;)/b[1]</value>
+      <webElementGuid>1a33c1f6-72fa-423a-bd82-9336f9d905fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='navMenuAdminDropDown']/b</value>
+      <webElementGuid>b3b2f3fc-5d46-41b7-8363-7d17b8437b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analytics'])[1]/following::b[3]</value>
+      <webElementGuid>1d7e8c58-5047-4bd2-baaa-0ef5b9188317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Articles'])[1]/following::b[3]</value>
+      <webElementGuid>34202398-ea0a-4348-bda8-161a9f9d9cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile Settings'])[1]/preceding::b[2]</value>
+      <webElementGuid>6c089d91-7458-4e1c-bf06-7351ec617033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[3]/a/b</value>
+      <webElementGuid>2ca9905f-ad78-4b4b-86cd-fb037b8a95aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = ' Admin ' or . = ' Admin ')]</value>
+      <webElementGuid>9bf93e20-6d5c-43b8-a5cf-5a6fce5f87d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

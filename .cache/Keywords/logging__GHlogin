@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "77BCB31E58CE7345A7AEDB4C4AC98116",
+  "keywordClasses": [
+    {
+      "name": "logging.GHlogin",
+      "keywordMethods": [
+        {
+          "name": "Login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
