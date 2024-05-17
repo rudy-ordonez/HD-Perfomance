@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET All Users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1073320-bbfc-4c20-9316-cff3e794267b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fd3778d8-5f76-48d5-82d5-eba1ace937bf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.HHD_API_Tag</defaultValue>
+      <description></description>
+      <id>fd3778d8-5f76-48d5-82d5-eba1ace937bf</id>
+      <masked>false</masked>
+      <name>tag</name>
+   </variable>
+</TestCaseEntity>

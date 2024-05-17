@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Home</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57189c2c-eb67-4fb5-bf73-3951d8cc2712</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0004e0ec-f2b8-4c89-a7a0-84705b8a17ae</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.TIPWebAPI_Url</defaultValue>
+      <description></description>
+      <id>0004e0ec-f2b8-4c89-a7a0-84705b8a17ae</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Url</name>
+   </variable>
+</TestCaseEntity>

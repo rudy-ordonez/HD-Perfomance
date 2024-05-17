@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET Tag w Times</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ff3d65d-277d-4386-8f91-e6bcec2d662c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f693acf-9197-4f8d-9161-7143dfe7f3d0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.HHD_API_Tag</defaultValue>
+      <description></description>
+      <id>2f693acf-9197-4f8d-9161-7143dfe7f3d0</id>
+      <masked>false</masked>
+      <name>tag</name>
+   </variable>
+</TestCaseEntity>

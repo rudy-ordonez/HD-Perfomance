@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>GetPartInventory</name>
+   <tag></tag>
+   <elementGuidId>09d1f5ef-ffb8-4f91-85e1-7f78008b71ed</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent>{
+  &quot;text&quot;: &quot;{\r\n  \&quot;partUID\&quot;: 1,\r\n   \&quot;sortBy\&quot;: 0\r\n//   \&quot;isOrderByDescending\&quot;: false,\r\n//   \&quot;pageNumber\&quot;: 1,\r\n//   \&quot;pageSize\&quot;: 10\r\n}&quot;,
+  &quot;contentType&quot;: &quot;application/json&quot;,
+  &quot;charset&quot;: &quot;UTF-8&quot;
+}</httpBodyContent>
+   <httpBodyType>text</httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Authorization</name>
+      <type>Main</type>
+      <value>${TIPWebAPI_Bearer}</value>
+      <webElementGuid>43b31c60-1a7a-47d8-962b-677057d0c13a</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>7701d10e-dc85-4637-a270-583bc5b57770</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>8.6.5</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>POST</restRequestMethod>
+   <restUrl>${TIPWebAPI_Url}/api/v2/PartsManagement/GetPartInventory</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>GlobalVariable.TIPWebAPI_Url</defaultValue>
+      <description></description>
+      <id>363c2774-3d49-4bcc-bc47-32e8f9e320e9</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Url</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.TIPWebAPI_Bearer</defaultValue>
+      <description></description>
+      <id>a615eda2-64c8-46c8-8077-6f23f42018d3</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Bearer</name>
+   </variables>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

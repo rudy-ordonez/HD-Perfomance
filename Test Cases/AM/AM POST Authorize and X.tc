@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AM POST Authorize and X</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>938c282f-0450-46dd-bf1b-0ab8157319f3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8fc234dd-dc08-4314-9a6c-78c464475e94</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.TIPWebAPI_Student</defaultValue>
+      <description></description>
+      <id>8fc234dd-dc08-4314-9a6c-78c464475e94</id>
+      <masked>false</masked>
+      <name>student</name>
+   </variable>
+</TestCaseEntity>

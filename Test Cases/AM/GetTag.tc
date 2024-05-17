@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetTag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcdbaf6f-7616-4b4b-a04e-d43febc57b90</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0bd5bb11-fa10-404d-8a78-fcb0a930c6a0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.TIPWebAPI_Tag</defaultValue>
+      <description></description>
+      <id>0bd5bb11-fa10-404d-8a78-fcb0a930c6a0</id>
+      <masked>false</masked>
+      <name>tag</name>
+   </variable>
+</TestCaseEntity>

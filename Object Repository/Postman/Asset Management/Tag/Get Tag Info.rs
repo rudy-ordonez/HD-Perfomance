@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>Get Tag Info</name>
+   <tag></tag>
+   <elementGuidId>1d56fd7c-67e4-490f-b11e-67452fc4bd34</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent>{
+  &quot;text&quot;: &quot;{\r\n    \&quot;TagName\&quot;: \&quot;1032190\&quot;\r\n}&quot;,
+  &quot;contentType&quot;: &quot;application/json&quot;,
+  &quot;charset&quot;: &quot;UTF-8&quot;
+}</httpBodyContent>
+   <httpBodyType>text</httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Authorization</name>
+      <type>Main</type>
+      <value>${TIPWebAPI_Bearer}</value>
+      <webElementGuid>52dbee35-3519-406a-8dff-767e2a644aa0</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>3d6b8a99-60b3-4c8e-afe8-6e701d23c334</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>8.6.5</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>POST</restRequestMethod>
+   <restUrl>${TIPWebAPI_Url}/api/Tag/GetTagInfo</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>GlobalVariable.TIPWebAPI_Url</defaultValue>
+      <description></description>
+      <id>58abb4a3-94ed-4378-b1f4-c1b650b9e34d</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Url</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.TIPWebAPI_Bearer</defaultValue>
+      <description></description>
+      <id>d5954745-62e4-4a35-a2e1-aac645f4a41a</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Bearer</name>
+   </variables>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

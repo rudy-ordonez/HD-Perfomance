@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>POST Shipments GetShipmentsByPurchaseOrder</name>
+   <tag></tag>
+   <elementGuidId>519df8c0-ecb6-4a88-aa41-bb1d00c264c0</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent>{
+  &quot;text&quot;: &quot;[\n\t\&quot;009731\&quot;,\n\t\&quot;P118432\&quot;,\n\t\&quot;007341\&quot;\n]&quot;,
+  &quot;contentType&quot;: &quot;application/json&quot;,
+  &quot;charset&quot;: &quot;UTF-8&quot;
+}</httpBodyContent>
+   <httpBodyType>text</httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>b6e93a61-5b66-4f91-95a6-672dec418135</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Authorization</name>
+      <type>Main</type>
+      <value>${TIPWebAPI_Bearer}</value>
+      <webElementGuid>3c96fc3b-e5cc-4837-ad3a-144d9d2fdf8b</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>8.6.5</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>POST</restRequestMethod>
+   <restUrl>${TIPWebAPI_Url}/api/Integrations/Shipments/GetShipmentsByPurchaseOrder</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>GlobalVariable.TIPWebAPI_Url</defaultValue>
+      <description></description>
+      <id>80fc0a56-5d1a-413d-8944-a2776659d7ac</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Url</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.TIPWebAPI_Bearer</defaultValue>
+      <description></description>
+      <id>2f960f20-388f-43c4-81af-11bb3033beba</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Bearer</name>
+   </variables>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

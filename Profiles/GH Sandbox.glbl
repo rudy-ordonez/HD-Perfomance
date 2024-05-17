@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>GH Sandbox</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://sandbox.hsshelpdesk.com'</initValue>
+      <name>HHD_API_Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>HHD_API_User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>HHD_API_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ABC'</initValue>
+      <name>HHD_API_Bearer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'MDMT1'</initValue>
+      <name>HHD_API_Tag</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'MDMT1'</initValue>
+      <name>tag</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

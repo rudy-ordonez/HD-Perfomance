@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>GET FundingSources GetFundingSources</name>
+   <tag></tag>
+   <elementGuidId>2cf1c304-68a4-4663-a6a0-edd725d6598a</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent>{
+  &quot;text&quot;: &quot;[\n\t\&quot;100000\&quot;,\n\t\&quot;1148531\&quot;\n]&quot;,
+  &quot;contentType&quot;: &quot;application/json&quot;,
+  &quot;charset&quot;: &quot;UTF-8&quot;
+}</httpBodyContent>
+   <httpBodyType>text</httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>8e64030a-ea15-452b-a0ef-b041084940d7</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Authorization</name>
+      <type>Main</type>
+      <value>${TIPWebAPI_Bearer}</value>
+      <webElementGuid>e2d2fb12-7382-42da-ab0e-b7253a7d0a97</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>8.6.5</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>${TIPWebAPI_Url}/api/Integrations/Funding/GetFundingSources</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>GlobalVariable.TIPWebAPI_Url</defaultValue>
+      <description></description>
+      <id>43485c55-dfe9-4f68-9178-d0fc64232b9c</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Url</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.TIPWebAPI_Bearer</defaultValue>
+      <description></description>
+      <id>b68556cf-a60b-43ba-9bcc-0d0eee1bdfea</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Bearer</name>
+   </variables>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

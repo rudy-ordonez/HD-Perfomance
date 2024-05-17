@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>IT Validation</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://validation.tipwebhss.com/TIpwebAPI/'</initValue>
+      <name>TIPWebAPI_Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'V4EHYNH2D421'</initValue>
+      <name>TIPWebAPI_Key</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'5HV4NSVGVTF0'</initValue>
+      <name>TIPWebAPI_Phrase</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ABC'</initValue>
+      <name>TIPWebAPI_Bearer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ZE152151H'</initValue>
+      <name>TIPWebAPI_Tag</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

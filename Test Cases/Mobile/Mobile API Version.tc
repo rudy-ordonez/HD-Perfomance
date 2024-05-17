@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mobile API Version</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b63b10a3-d3d6-4760-80b0-b6a128c8ea81</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bfe38ec1-4d3f-40c0-aede-fd67857a0d6f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.TIPWebAPI_Url</defaultValue>
+      <description></description>
+      <id>bfe38ec1-4d3f-40c0-aede-fd67857a0d6f</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Url</name>
+   </variable>
+</TestCaseEntity>

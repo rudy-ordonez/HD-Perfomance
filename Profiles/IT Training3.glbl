@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>IT Training3</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.tipwebittraining.com/TIPWebAPITraining3'</initValue>
+      <name>TIPWebAPI_Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Boot+Yum'</initValue>
+      <name>TIPWebAPI_Key</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'42Dual_root'</initValue>
+      <name>TIPWebAPI_Phrase</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ABC'</initValue>
+      <name>TIPWebAPI_Bearer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ABC'</initValue>
+      <name>TIPWebAPI_Tag</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

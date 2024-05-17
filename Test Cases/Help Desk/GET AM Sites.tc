@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET AM Sites</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17369976-780c-4896-94b0-e1120048a27b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e5f2f8df-7324-4e8d-8ea3-035ac9469bc2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.HHD_API_Tag</defaultValue>
+      <description></description>
+      <id>e5f2f8df-7324-4e8d-8ea3-035ac9469bc2</id>
+      <masked>false</masked>
+      <name>tag</name>
+   </variable>
+</TestCaseEntity>

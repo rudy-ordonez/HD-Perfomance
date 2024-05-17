@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>GetParts</name>
+   <tag></tag>
+   <elementGuidId>9d254663-a91b-4dba-8260-ae579fb3a816</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent>{
+  &quot;text&quot;: &quot;{\r\n   \&quot;siteUIDs\&quot;: [\r\n     \r\n   ],\r\n//   \&quot;showFullPartCatalog\&quot;: true,\r\n//   \&quot;showPartsBelowMinimumQuantityOnly\&quot;: true,\r\n//   \&quot;partNumber\&quot;: \&quot;www\&quot;\r\n//   \&quot;partName\&quot;: \&quot;www\&quot;\r\n//   \&quot;partTypeUID\&quot;: 1,\r\n//   \&quot;partAreaUID\&quot;: \&quot;Hello\&quot;\r\n//   \&quot;quantity\&quot;: 0,\r\n//   \&quot;cost\&quot;: 0,\r\n//   \&quot;minimumStock\&quot;: 0,\r\n   \&quot;pageNumber\&quot;: 1,\r\n   \&quot;pageSize\&quot;: 10,\r\n//   \&quot;sortBy\&quot;: 10,\r\n//   \&quot;isOrderByDescending\&quot;: false\r\n}&quot;,
+  &quot;contentType&quot;: &quot;application/json&quot;,
+  &quot;charset&quot;: &quot;UTF-8&quot;
+}</httpBodyContent>
+   <httpBodyType>text</httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Authorization</name>
+      <type>Main</type>
+      <value>${TIPWebAPI_Bearer}</value>
+      <webElementGuid>6dee201a-7b35-4a7b-91f2-c7d0b8f34671</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>db1b3314-53c9-415e-a2f1-2dff2ad611cf</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>8.6.5</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>POST</restRequestMethod>
+   <restUrl>${TIPWebAPI_Url}/api/v2/PartsManagement/GetParts</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>GlobalVariable.TIPWebAPI_Url</defaultValue>
+      <description></description>
+      <id>c5637d53-4819-4a18-84c0-d835ae9683b2</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Url</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.TIPWebAPI_Bearer</defaultValue>
+      <description></description>
+      <id>ed515619-ae42-477b-a387-bd85f533c9c1</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Bearer</name>
+   </variables>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

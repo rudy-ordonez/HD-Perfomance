@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SQL Migration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d569ed9-74b1-4ed7-820d-8c494391f881</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d4645238-2205-41e6-a35d-68cd5e5e6a5a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b9ae19ea-1740-424c-9a12-30d631062860</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2d967013-3183-4125-bbe4-5298e9b3b959</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.TIPWebAPI_Url</defaultValue>
+      <description></description>
+      <id>d4645238-2205-41e6-a35d-68cd5e5e6a5a</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Url</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.TIPWebAPI_Key</defaultValue>
+      <description></description>
+      <id>b9ae19ea-1740-424c-9a12-30d631062860</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Key</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.TIPWebAPI_Phrase</defaultValue>
+      <description></description>
+      <id>2d967013-3183-4125-bbe4-5298e9b3b959</id>
+      <masked>false</masked>
+      <name>phrase</name>
+   </variable>
+</TestCaseEntity>

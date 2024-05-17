@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Token and</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2c272e1-9d85-4ac6-80db-eb8601cc7f5c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25369c40-1312-4ac1-91cd-9eeeeb2aaccf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c1eda5be-6680-4ded-b44d-82cbbafff9d3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39b59114-2ef4-4a3a-8cab-d8f7083c73c7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.TIPWebAPI_Url</defaultValue>
+      <description></description>
+      <id>25369c40-1312-4ac1-91cd-9eeeeb2aaccf</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Url</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.TIPWebAPI_Key</defaultValue>
+      <description></description>
+      <id>c1eda5be-6680-4ded-b44d-82cbbafff9d3</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Key</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.TIPWebAPI_Phrase</defaultValue>
+      <description></description>
+      <id>39b59114-2ef4-4a3a-8cab-d8f7083c73c7</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Phrase</name>
+   </variable>
+</TestCaseEntity>

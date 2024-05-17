@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST CreateTicket</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be89d723-501a-463c-9235-2ac23d5a1b36</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>71717813-9d28-4c7d-bc52-f2037e111d90</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.HHD_API_Tag</defaultValue>
+      <description></description>
+      <id>71717813-9d28-4c7d-bc52-f2037e111d90</id>
+      <masked>false</masked>
+      <name>tag</name>
+   </variable>
+</TestCaseEntity>

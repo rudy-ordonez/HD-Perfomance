@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>IT Demo2</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.tipwebitdemo2.com/TIPWebAPI'</initValue>
+      <name>TIPWebAPI_Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'D3m0iT!pW3b'</initValue>
+      <name>TIPWebAPI_Key</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'wergjdi$jd78OP895542WEst$#2g*jkd'</initValue>
+      <name>TIPWebAPI_Phrase</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ABC'</initValue>
+      <name>TIPWebAPI_Bearer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'010'</initValue>
+      <name>TIPWebAPI_Tag</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

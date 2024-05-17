@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Mobile TestAustin</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://testaustin.tipwebhss.com/TIPWebITMobile-Logon/Account/login'</initValue>
+      <name>TIPWebAPI_LoginURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://testaustin.tipwebhss.com/TIPWebITMobile-API/'</initValue>
+      <name>TIPWebAPI_Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'qait'</initValue>
+      <name>TIPWebAPI_LoginUserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'NxLFcE2DDDpn'</initValue>
+      <name>TIPWebAPI_LoginPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ABC'</initValue>
+      <name>TIPWebAPI_Token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ABC'</initValue>
+      <name>TIPWebAPI_Bearer</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

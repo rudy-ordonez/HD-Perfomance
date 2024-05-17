@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>GH Corpus Beta</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://corpuschristiisdbeta.gethelphss.com'</initValue>
+      <name>HHD_API_Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rudy_admin'</initValue>
+      <name>HHD_API_User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test'</initValue>
+      <name>HHD_API_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ABC'</initValue>
+      <name>HHD_API_Bearer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1037353'</initValue>
+      <name>HHD_API_Tag</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1037353'</initValue>
+      <name>tag</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'FK03WSAU9ZYK'</initValue>
+      <name>HHD_API_Key</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'MQZF0PW6XCRG'</initValue>
+      <name>HHD_API_Phrase</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>POST Shipments AddShipmentsExcludeExisting</name>
+   <tag></tag>
+   <elementGuidId>646ec2cd-cd9c-4471-93b8-78cf9f86e3b6</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent>{
+  &quot;text&quot;: &quot;[  \r\n   {  \r\n      \&quot;OrderNumber\&quot;:\&quot;100000\&quot;,\r\n      \&quot;LineNumber\&quot;:\&quot;1\&quot;,\r\n      \&quot;SiteID\&quot;:\&quot;46411\&quot;,\r\n      \&quot;TicketNumber\&quot;:null,\r\n      \&quot;QuantityShipped\&quot;:1,\r\n      \&quot;TicketedBy\&quot;:null,\r\n      \&quot;TicketedDate\&quot;:null,\r\n      \&quot;Status\&quot;:\&quot;Open\&quot;,\r\n      \&quot;InvoiceNumber\&quot;:null,\r\n      \&quot;InvoiceDate\&quot;:null\r\n   },\r\n   {  \r\n      \&quot;orderNumber\&quot;:\&quot;3422013\&quot;,\r\n      \&quot;lineNumber\&quot;:1,\r\n      \&quot;siteID\&quot;:\&quot;69033\&quot;,\r\n      \&quot;ticketNumber\&quot;:null,\r\n      \&quot;quantityShipped\&quot;:1,\r\n      \&quot;ticketedBy\&quot;:null,\r\n      \&quot;ticketedDate\&quot;:null,\r\n      \&quot;status\&quot;:\&quot;Open\&quot;,\r\n      \&quot;invoiceNumber\&quot;:null,\r\n      \&quot;invoiceDate\&quot;:null\r\n   }\r\n]&quot;,
+  &quot;contentType&quot;: &quot;application/json&quot;,
+  &quot;charset&quot;: &quot;UTF-8&quot;
+}</httpBodyContent>
+   <httpBodyType>text</httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>c1b6f6a3-a4a1-48fd-b73f-85e6195a857e</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Authorization</name>
+      <type>Main</type>
+      <value>${TIPWebAPI_Bearer}</value>
+      <webElementGuid>e6dffc8e-cd51-407a-b219-0f5161df55e9</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>8.6.5</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>POST</restRequestMethod>
+   <restUrl>${TIPWebAPI_Url}/api/Integrations/Shipments/AddShipmentsExcludeExisting</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>GlobalVariable.TIPWebAPI_Url</defaultValue>
+      <description></description>
+      <id>0dca8ef3-7653-4b44-ba92-c0800f7e098c</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Url</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.TIPWebAPI_Bearer</defaultValue>
+      <description></description>
+      <id>30cbb73a-7b6f-476a-9e9a-ec1348a4b6ea</id>
+      <masked>false</masked>
+      <name>TIPWebAPI_Bearer</name>
+   </variables>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

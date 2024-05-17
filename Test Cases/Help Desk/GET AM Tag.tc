@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET AM Tag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3dc07dfe-909c-4dee-b160-50c1fa9c6173</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>10d6b546-a382-4445-92f1-d7329e158e78</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.HHD_API_Tag</defaultValue>
+      <description></description>
+      <id>10d6b546-a382-4445-92f1-d7329e158e78</id>
+      <masked>false</masked>
+      <name>tag</name>
+   </variable>
+</TestCaseEntity>

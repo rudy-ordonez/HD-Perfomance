@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GH Apply Token to any call</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20c9e163-a623-437d-a01f-e7af279153b0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9491b598-eb3d-4c80-8ab3-f7c0a711fbed</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.HHD_API_Tag</defaultValue>
+      <description></description>
+      <id>9491b598-eb3d-4c80-8ab3-f7c0a711fbed</id>
+      <masked>false</masked>
+      <name>tag</name>
+   </variable>
+</TestCaseEntity>
